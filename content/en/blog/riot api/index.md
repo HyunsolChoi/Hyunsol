@@ -1,5 +1,9 @@
 ---
 title: Using Riot API with WPF
+authors:
+  - admin
+tags:
+  - API
 date: 2024-09-22
 ---
 

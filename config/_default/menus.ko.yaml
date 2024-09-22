@@ -1,0 +1,13 @@
+# Navigation Links
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: 홈
+    url: /
+    weight: 10
+  - name: 항목
+    url: tags/
+    weight: 20
+  - name: 사용
+    url: uses/
+    weight: 30

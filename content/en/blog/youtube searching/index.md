@@ -22,5 +22,3 @@ Secondly, the [YouTube API](https://developers.google.com/youtube) is utilized. 
 ## Result 
 
 This allows users to search for videos from their desired country in the language of their choice, without being limited by their own country.
-
-Here is images of the report in korean.

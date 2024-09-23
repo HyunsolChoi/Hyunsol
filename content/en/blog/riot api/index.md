@@ -11,7 +11,7 @@ In February 2022, I studied WPF and API in advance to prepare for the Windows pr
 
 ## GOAL
 
-The goal was to implement user information in JSON format to allow information retrieval by ID using the [Riot API](https://developer.riotgames.com/apis).
+The goal was to use the [Riot API](https://developer.riotgames.com/apis) to retrieve user information by ID, providing the information in JSON format.
 
 ## Diffrences
 
@@ -21,6 +21,6 @@ And there are no restrictions received from any web server like op.gg, refreshin
 
 ## Result
 
-The implementation of UI is not perfect, but we successfully implemented information inquiry through ID.
+The implementation of UI is not perfect, but I successfully implemented information inquiry through ID.
 
 

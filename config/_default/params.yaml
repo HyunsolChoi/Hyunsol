@@ -6,6 +6,9 @@
 # Appearance
 appearance:
   mode: light
+  mode: dark
+  mode: system
+  mode: blue
   color: blue
 
 # SEO

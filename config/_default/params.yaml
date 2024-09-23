@@ -5,10 +5,8 @@
 
 # Appearance
 appearance:
-  theme_night: minimal
-  theme_day: minimal
-  font: native
-  font_size: L
+  mode: system
+  color: blue
 
 # SEO
 marketing:
@@ -31,11 +29,10 @@ marketing:
 # Site header
 header:
   navbar:
-    navbarAlignment: center
     enable: true
-    align: c
+    align: center
     show_search: true
-    show_day_night: true
+    show_theme_chooser: true
 
 # Site footer
 footer:

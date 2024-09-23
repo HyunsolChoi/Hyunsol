@@ -24,6 +24,5 @@ date: 2024-09-22
 ## 결과
 
 UI부분은 다소 아쉽게 마무리 되었지만, ID를 통해 사용자 정보를 출력하는 부분은 성공적으로 구현하였습니다.
-The implementation of UI is not perfect, but I successfully implemented information inquiry through ID.
 
 

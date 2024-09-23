@@ -5,11 +5,10 @@
 
 # Appearance
 appearance:
-  mode: light
-  mode: dark
-  mode: system
-  mode: blue
-  color: blue
+  theme_night: minimal
+  theme_day: minimal
+  font: native
+  font_size: L
 
 # SEO
 marketing:

@@ -31,7 +31,9 @@ marketing:
 # Site header
 header:
   navbar:
+    navbarAlignment: center
     enable: true
+    align: c
     show_search: true
     show_day_night: true
 

@@ -4,11 +4,6 @@ reading_time: false
 share: false
 pager: false
 
-education:
-    course:
-        - course: Integrated M.S. & Ph.D. in (전기전자컴퓨터공학과)
-          institution: 대구경북과학기술원 (DGIST)
-          year: 2018 - 2023
 --- 
 
 안녕하세요! 제 이름은 최현솔이라고 합니다! 

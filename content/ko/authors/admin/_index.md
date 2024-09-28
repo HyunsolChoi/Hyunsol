@@ -38,6 +38,18 @@ profiles:
   - icon: custom/github
     url: https://github.com/HyunsolChoi
 
+interests:
+  - 인공지능 (AI)
+  - 데이터 베이스
+  - 알고리즘
+  - 개발 (Development & Deploy)
+
+education:
+  courses:
+    - course: 컴퓨터공학부 학부과정
+      institution: 전북대학교
+      year: 2021 - 현재
+
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 

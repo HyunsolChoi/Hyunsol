@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: system
-  color: blue
+  color: green
 
 # SEO
 marketing:
@@ -14,7 +14,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo blog theme powered by Hugo Blox Builder.'
+    description: 'A student who wants to become a backend developer'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
@@ -30,9 +30,11 @@ marketing:
 header:
   navbar:
     enable: true
-    align: center
     show_search: true
     show_theme_chooser: true
+    align: "center"
+    logo:
+      text: "Hyunsol's Portpolio"
 
 # Site footer
 footer:

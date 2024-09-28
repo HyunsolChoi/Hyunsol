@@ -10,8 +10,6 @@ last_name: Choi
 status:
   icon: 🖥️
 
-superuser: true
-
 # Role/position/tagline
 role: 대학생
 

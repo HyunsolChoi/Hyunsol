@@ -3,7 +3,7 @@ title: Title
 hide_date: true
 type: landing
 sections:
-  - block: resume-biography
+  - block: resume-biography-3   
     content:
       # The user's folder name in content/authors/
       username: admin
@@ -13,5 +13,3 @@ sections:
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
 ---
-
-최현솔의 포트폴리오에 오신 것을 환영합니다!

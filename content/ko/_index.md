@@ -16,18 +16,12 @@ sections:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
         filename: 'coding.jpg'
   - block: collection
-    design:
-      # Choose a listing view
-      view: masonry
-      spacing:
-        padding: ['3rem', 0, '6rem', 0]
-      # For the Showcase view, do you want to flip alternate rows?
-      columns: '2'
-      flip_alt_rows: false
     content:
       filters:
         folders:
           - blog
+        kinds: 
+          - page
       sort_by: 'Date'
       text: 'Recent Posts'
       filter_button:
@@ -37,6 +31,14 @@ sections:
           tag: API
         - name: WEB
           tag: WEB
+    design:
+      # Choose a listing view
+      view: masonry
+      spacing:
+        padding: ['3rem', 0, '6rem', 0]
+      # For the Showcase view, do you want to flip alternate rows?
+      columns: '2'
+      flip_alt_rows: false
     
      
 ---

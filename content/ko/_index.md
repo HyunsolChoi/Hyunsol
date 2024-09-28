@@ -20,25 +20,12 @@ sections:
       filters:
         folders:
           - blog
-        kinds: 
-          - page
       sort_by: 'Date'
       text: 'Recent Posts'
-      filter_button:
-        - name: All
-          tag: '*'
-        - name: API
-          tag: API
-        - name: WEB
-          tag: WEB
     design:
-      # Choose a listing view
-      view: masonry
       spacing:
         padding: ['3rem', 0, '6rem', 0]
       # For the Showcase view, do you want to flip alternate rows?
-      columns: 2
-      flip_alt_rows: false
     
      
 ---

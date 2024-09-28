@@ -36,7 +36,6 @@ profiles:
     url: https://github.com/HyunsolChoi
 
 interests:
-  - 인공지능 (AI)
   - 데이터 베이스
   - 알고리즘
   - 개발 (Development & Deploy)

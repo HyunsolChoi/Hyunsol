@@ -49,7 +49,8 @@ education:
     date_end: 2024
     summary: |
       전북대학교 컴퓨터인공지능학부 학사과정 재학중
-    style: font-size:110%; color:#ffffff;
+    design:
+     style: font-size:110%; color:#ffffff;
 
 
 # Highlight the author in author lists? (true/false)

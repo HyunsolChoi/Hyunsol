@@ -17,13 +17,13 @@ sections:
         filename: 'coding.jpg'
   - block: collection
     design:
-        # Choose a listing view
-        view: masonry
-        spacing:
-          padding: ['3rem', 0, '6rem', 0]
-        # For the Showcase view, do you want to flip alternate rows?
-        columns: '2'
-        flip_alt_rows: false
+      # Choose a listing view
+      view: masonry
+      spacing:
+        padding: ['3rem', 0, '6rem', 0]
+      # For the Showcase view, do you want to flip alternate rows?
+      columns: '2'
+      flip_alt_rows: false
     content:
       filters:
         folders:

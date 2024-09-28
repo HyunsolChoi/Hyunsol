@@ -18,7 +18,10 @@ sections:
       filters:
         folders:
           - blog
+      sort_by: 'Date'
     design:
+      # Choose a listing view
+      view: card
       spacing:
         padding: ['3rem', 0, '6rem', 0]
      

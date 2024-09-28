@@ -34,6 +34,8 @@ profiles:
     url: https://www.instagram.com/s._.ol_02/
   - icon: custom/github
     url: https://github.com/HyunsolChoi
+  - icon: brands/discord    
+    url: https://discord.gg/zbbK7qqWf3
 
 interests:
   - <span style="font-size:110%; color:#ffffff;">데이터 베이스</span>

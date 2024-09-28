@@ -12,7 +12,7 @@ sections:
     design:
       css_class: dark
       biography:
-        style: 'text-align: justify; font-size: 0.8em; '
+        style: 'text-align: justify; font-size: 0.8em; color: #f5f666'
       background:
         color: black
         image:

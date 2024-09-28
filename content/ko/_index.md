@@ -22,6 +22,13 @@ sections:
           - blog
       sort_by: 'Date'
       text: 'Recent Posts'
+      filter_button:
+        - name: All
+          tag: '*'
+        - name: API
+          tag: API
+        - name: WEB
+          tag: WEB
     design:
       # Choose a listing view
       view: masonry

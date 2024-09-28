@@ -14,12 +14,13 @@ sections:
 ---  -->
 
 ---
+
 title: 최현솔
 first_name: 현솔
 last_name: 최
 
 authors:
-    - about
+    - admin
 
 superuser: true
 

@@ -13,6 +13,9 @@ sections:
        padding: [0, 0, 0, 0]
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
+      banner:
+        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
+        filename: 'coding.jpg'
   - block: collection
     content:
       filters:

@@ -43,12 +43,13 @@ interests:
   - <span style="font-size:110%; color:#ffffff;">웹 개발</span>
 
 education:
-  - area: <span style="font-size:110%; color:#ffffff;">컴퓨터인공지능학부 학사과정 </span>
-    institution: <span style="font-size:110%; color:#ffffff;">전북대학교</span>
+  - area: 컴퓨터인공지능학부 학사과정 
+    institution: 전북대학교
     date_start: 2021
     date_end: 2024
     summary: |
       전북대학교 컴퓨터인공지능학부 학사과정 재학중
+    style: font-size:110%; color:#ffffff;
 
 
 # Highlight the author in author lists? (true/false)

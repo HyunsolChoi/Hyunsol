@@ -28,13 +28,13 @@ sections:
     content:
       title: Projects
       subtitle: My subtitle
-      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
+      text: HIHI
       filters:
         # Folders to display content from
         folders:
-          - project
+          - blog
         # Only show content with these tags
-        tags: []
+        tags: ["API","WEB"]
         # Exclude content with these tags
         exclude_tags: []
         # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)

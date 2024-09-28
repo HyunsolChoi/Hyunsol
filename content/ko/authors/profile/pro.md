@@ -23,6 +23,17 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 웹 개발과 데이터베이스에 관심이 있고 그 외에 다양한 컴퓨터 과학 분야를 공부 중 입니다.
 
+# Social Networking
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
+profiles:
+  - icon: at-symbol
+    url: 'mailto:lasang2@naver.com'
+    label: E-mail Me
+  - icon: brands/instagram
+    url: https://www.instagram.com/s._.ol_02/
+  - icon: custom/github
+    url: https://github.com/HyunsolChoi
+
 interests:
   - 인공지능 (AI)
   - 데이터 베이스
@@ -35,16 +46,6 @@ education:
       institution: 전북대학교
       year: 2021 - 현재
 
-# Social Networking
-# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
-profiles:
-  - icon: at-symbol
-    url: 'mailto:lasang2@naver.com'
-    label: E-mail Me
-  - icon: brands/instagram
-    url: https://www.instagram.com/s._.ol_02/
-  - icon: custom/github
-    url: https://github.com/HyunsolChoi
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

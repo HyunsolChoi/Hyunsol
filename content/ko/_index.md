@@ -2,7 +2,6 @@
 title: My page
 hide_date: true
 type: landing
-
 sections:
   - block: resume-biography
     content:
@@ -22,10 +21,13 @@ sections:
         folders:
           - blog
       sort_by: 'Date'
+      text: 'Recent Posts'
     design:
       # Choose a listing view
-      view: card
+      view: showcase
       spacing:
         padding: ['3rem', 0, '6rem', 0]
+      # For the Showcase view, do you want to flip alternate rows?
+      flip_alt_rows: true
      
 ---

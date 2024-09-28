@@ -28,6 +28,7 @@ sections:
       spacing:
         padding: ['3rem', 0, '6rem', 0]
       # For the Showcase view, do you want to flip alternate rows?
-      flip_alt_rows: true
+      columns: '2'
+      flip_alt_rows: false
      
 ---

@@ -1,34 +1,34 @@
 ---
+# Display name
+title: Hyunsol
 
-title: 최현솔
-first_name: 현솔
-last_name: 최
+# Name pronunciation (optional)
+name_pronunciation: ''
 
-authors:
-    - admin
+# Full name (for SEO)
+first_name: Hyunsol
+last_name: Choi
 
+# Status emoji
+status:
+  icon: 🖥️
+
+# Is this the primary user of the site?
 superuser: true
 
+# Role/position/tagline
 role: 대학생
 
+# Organizations/Affiliations to show in About widget
 organizations:
-  - name: 전북대학교 컴퓨터인공지능학부
-    url: 'https://csai.jbnu.ac.kr/csai/index.do'
+  - name: 전북대학교 
+    url: https://www.jbnu.ac.kr
 
-bio: 웹 개발직 근무를 희망하며 데이터 베이스, 알고리즘, 웹 개발 등 각종 컴퓨터 과학 분야의 지식을 학습 중 입니다.
+# Short bio (displayed in user profile at end of posts)
+bio: 웹 개발과 데이터베이스에 관심이 있고 그 외에 다양한 컴퓨터 과학 분야를 공부 중 입니다.
 
-interests:
-  - 인공지능 (AI)
-  - 개발 (Development & Deploy)
-  - 데이터 베이스
-  - 알고리즘
-
-education:
-  courses:
-    - course: 컴퓨터공학부 학부생
-      institution: 전북대학교
-      year: 2021 - 현재
-
+# Social Networking
+# Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
     url: 'mailto:lasang2@naver.com'
@@ -38,11 +38,11 @@ profiles:
   - icon: custom/github
     url: https://github.com/HyunsolChoi
 
+# Highlight the author in author lists? (true/false)
 highlight_name: true
 
+# Author's website URL
+website: ""
 ---
 
-### 학적
-
-전북대학교 컴퓨타공학부 2021 - 현재
-
+최현솔의 포트폴리오에 오신 것을 환영합니다!

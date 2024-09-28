@@ -23,7 +23,7 @@ type: landing
 #        padding: ['3rem', 0, '6rem', 0]
 
 sections:
-  - block: portfolio
+  - block: resume-biography
     id: projects
     content:
       title: Projects

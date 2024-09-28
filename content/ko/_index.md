@@ -30,7 +30,6 @@ sections:
         item-style: |
           border: 1px solid #ddd;
           border-radius: 8px;
-          overflow: hidden;
           box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
       spacing:
         padding: ['3rem', 0, '6rem', 0]

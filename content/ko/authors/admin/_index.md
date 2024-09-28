@@ -21,7 +21,7 @@ role: 대학생
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 전북대학교
+  - name: 전북대학교 
     url: https://www.jbnu.ac.kr
 
 # Short bio (displayed in user profile at end of posts)

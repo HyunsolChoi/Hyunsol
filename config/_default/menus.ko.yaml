@@ -2,8 +2,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 홈
-    url: ko/
+  - name: 소개
+    url: ko/about
     weight: 10
   - name: 항목
     url: tags/

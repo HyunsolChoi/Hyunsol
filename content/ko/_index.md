@@ -22,26 +22,14 @@ sections:
       spacing:
         padding: ['3rem', 0, '6rem', 0]
       style: |
-        <style>
-        .collection-grid {
-          display: grid;
-          grid-template-columns: repeat(2, 1fr);
-          gap: 20px;
-          padding: 20px;
-        }
-
-        .collection-item {
-          border: 1px solid #ddd;
-          border-radius: 8px;
-          overflow: hidden;
-          box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-        }
-        </style>
-      grid:
-        columns: 2 # 2열로 설정
-        gap: 20px # 카드 사이 간격 설정
-        style: collection-grid
-        item-style: collection-item
+        <div class="collection-grid">
+          {{ range .Pages }}
+            <div class="collection-item">
+              <h2>{{ .Title }}</h2>
+              <p>{{ .Summary }}</p>
+            </div>
+          {{ end }}
+        </div>
      
 
 ---

@@ -4,22 +4,25 @@ authors:
   - admin
 tags:
   - API
+  - WPF
 date: 2024-09-22
+
+summary: "In February 2022, I studied WPF and API in advance to prepare for the Windows programming lecture scheduled to take. "
 ---
 
 In February 2022, I studied WPF and API in advance to prepare for the Windows programming lecture scheduled to take. 
 
-## GOAL
+### GOAL
 
 The goal was to use the [Riot API](https://developer.riotgames.com/apis) to retrieve user information by ID, providing the information in JSON format.
 
-## Diffrences
+### Diffrences
 
 A website that implements the feature is [OP.GG](https://www.op.gg/). However, I used WPF to implement that feature. Therefore, you don't need any web browsers, and you can use it only with programs. 
 
 And there are no restrictions received from any web server like op.gg, refreshing was more free within the range supported by the API and faster.
 
-## Result
+### Result
 
 The implementation of UI is not perfect, but I successfully implemented information inquiry through ID.
 

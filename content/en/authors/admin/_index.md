@@ -35,7 +35,7 @@ profiles:
     label: E-mail Me
   - icon: brands/instagram
     url: https://www.instagram.com/s._.ol_02/
-  - icon: custom/github-grey
+  - icon: custom/github
     url: https://github.com/HyunsolChoi
 
 # Highlight the author in author lists? (true/false)

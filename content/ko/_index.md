@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: My page
 hide_date: true
 type: landing
 

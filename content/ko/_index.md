@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+hide_date: true
 type: landing
 
 #sections:
@@ -23,12 +23,12 @@ type: landing
 #        padding: ['3rem', 0, '6rem', 0]
 
 sections:
-  - block: resume-biography
+  - block: portfolio
     id: projects
     content:
       title: Projects
       subtitle: My subtitle
-      text: HIHI
+      text: hello world
       filters:
         # Folders to display content from
         folders:

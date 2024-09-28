@@ -24,7 +24,7 @@ sections:
       text: 'Recent Posts'
     design:
       # Choose a listing view
-      view: showcase
+      view: masonry
       spacing:
         padding: ['3rem', 0, '6rem', 0]
       # For the Showcase view, do you want to flip alternate rows?

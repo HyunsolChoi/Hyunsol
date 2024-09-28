@@ -2,6 +2,7 @@
 title: My page
 hide_date: true
 type: landing
+
 sections:
   - block: resume-biography
     content:

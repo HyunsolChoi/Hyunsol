@@ -65,7 +65,7 @@ skills:
       - name: python
         description: ''
         percent: 60
-        icon: custom/python
+        icon: custom/fab-python
       - name: MySQL
         description: ''
         percent: 80

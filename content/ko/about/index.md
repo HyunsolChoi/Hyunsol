@@ -22,9 +22,9 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: coding.jpg
+          filename: unsplash-background.jpg
           filters:
-            brightness: 0.8
+            brightness: 0.6
           size: cover
           position: center
           parallax: false

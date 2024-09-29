@@ -21,13 +21,8 @@ sections:
       filters:
         folders:
           - blog
-      sort_by: 'Date'
-      text: 'Recent Posts'
-      count: 0
     design:
       spacing:
         padding: ['3rem', 0, '6rem', 0]
-      view: article-grid
-      columns: 2
      
 ---

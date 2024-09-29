@@ -5,6 +5,7 @@ date: 2024-09-30
 
 authors:
   - admin
+  
 tags:
   - SQL
   - License

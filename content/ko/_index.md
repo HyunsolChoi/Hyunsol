@@ -9,7 +9,6 @@ sections:
       # The user's folder name in content/authors/
       username: admin
     design:
-      css_class: dark
       spacing:
        padding: [0, 0, 0, 0]
       biography:

@@ -6,7 +6,7 @@ main:
     url: about/
     weight: 100
   - parent: 소개
-    name: 소개
+    name: 프로필
     url: /authors/profile
     weight: 110
   - parent: 소개

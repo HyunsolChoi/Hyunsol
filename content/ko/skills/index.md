@@ -3,7 +3,7 @@ title: 기술 및 기타
 type: landing
 
 design:
-  spacing: '5rem'
+  align: center
 
 sections:   
   - block: resume-skills

@@ -5,12 +5,12 @@ date: 2024-09-30
 
 authors:
   - admin
-  
+
 tags:
   - SQL
   - License
 
-summary: "국가공인자격증, SQLD 취득을 위해 공부하였습니다."
+summary: 국가공인자격증, SQLD 취득을 위해 공부하였습니다.
 ---
 
 

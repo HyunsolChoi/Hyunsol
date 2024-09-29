@@ -3,7 +3,7 @@ title: SQLD 자격증 취득
 
 summary: 국가공인자격증, SQLD 취득을 위해 공부하였습니다.
 
-date: 2024-09-28
+date: 2024-09-30
 
 authors:
   - admin

@@ -4,10 +4,19 @@
 main:
   - name: 소개
     url: ko/about
-    weight: 10
+    weight: 100
+  - parent: 소개
+    name: 소개
+    url: ko/about
+    weight: 110
+  - parent: 소개
+    name: 기술 및 기타
+    url: ko/skills
+    weight: 220
+
   - name: 태그
     url: tags/
-    weight: 20
+    weight: 200
   - name: 사용
     url: uses/
-    weight: 30
+    weight: 300

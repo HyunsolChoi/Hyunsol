@@ -50,6 +50,45 @@ education:
     summary: |
       전북대학교 컴퓨터인공지능학부 학사과정 재학중
 
+skills:
+  - name: Technical Skills
+    items:
+      - name: Python
+        description: ''
+        percent: 80
+        icon: code-bracket
+      - name: Data Science
+        description: ''
+        percent: 100
+        icon: chart-bar
+      - name: SQL
+        description: ''
+        percent: 40
+        icon: circle-stack
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera
+
+languages:
+  - name: Korean
+    percent: 100
+  - name: English
+    percent: 70
+  - name: Deutsch
+    percent: 35
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

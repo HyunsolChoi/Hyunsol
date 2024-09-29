@@ -73,19 +73,19 @@ skills:
       - name: Game
         description: ''
         percent: 100
-        icon: gamepad
+        icon: custom/gamepad
       - name: Walk
         description: ''
-        percent: 60
-        icon: walk
+        percent: 70
+        icon: custom/walk
       - name: Watching youtube
         description: ''
         percent: 80
-        icon: youtube.svg
+        icon: custom/youtube
       - name: Study Science
         description: ''
         percent: 80
-        icon: science.svg
+        icon: custom/science
 languages:
   - name: Korean
     percent: 100

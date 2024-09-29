@@ -57,15 +57,15 @@ skills:
       - name: C/C++
         description: ''
         percent: 100
-        icon: code-bracket
-      - name: Data Science
+        icon: custom/code
+      - name: Java
         description: ''
         percent: 60
-        icon: chart-bar
-      - name: SQL(MySQL)
+        icon: custom/java
+      - name: MySQL
         description: ''
         percent: 80
-        icon: circle-stack
+        icon: custom/database
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -82,6 +82,10 @@ skills:
         description: ''
         percent: 80
         icon: custom/science
+      - name: Watch movie
+        description: ''
+        percent: 50
+        icon: custom/movie
 languages:
   - name: Korean
     percent: 100

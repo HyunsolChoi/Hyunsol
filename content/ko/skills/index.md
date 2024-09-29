@@ -2,9 +2,6 @@
 title: 기술 및 기타
 type: landing
 
-design:
-  align: center
-
 sections:   
   - block: resume-skills
     content:
@@ -16,5 +13,4 @@ sections:
     content:
       title: 언어
       username: profile
-
 ---

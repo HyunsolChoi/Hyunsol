@@ -11,8 +11,8 @@ main:
     weight: 110
   - parent: 소개
     name: 기술 및 기타
-    url: skills/
-    weight: 220
+    url: skills/ 
+    weight: 120
 
   - name: 태그
     url: tags/

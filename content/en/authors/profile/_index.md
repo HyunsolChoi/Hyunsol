@@ -14,15 +14,15 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: 대학생
+role: student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 전북대학교 
+  - name: Jeonbuk National University
     url: https://www.jbnu.ac.kr
 
 # Short bio (displayed in user profile at end of posts)
-bio: 웹 개발과 데이터베이스에 관심이 있고 그 외에 다양한 컴퓨터 과학 분야를 공부 중 입니다.
+bio: I'm interested in developing web and database, in addition, I am also studying various fields about CS.
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -38,20 +38,19 @@ profiles:
     url: https://discord.gg/zbbK7qqWf3
 
 interests:
-  - 데이터 베이스
-  - 알고리즘
-  - 웹 개발
+  - Database
+  - Algorithm
+  - Web Dev
 
 education:
-  - area: 컴퓨터인공지능학부 학사과정
-    institution: 전북대학교
+  - area: Undergraduate program in Computer Science and Artificial Intelligence
+    institution: Jeonbuk National University
     date_start: 2021
     date_end: 2026
-    summary: |
-      전북대학교 컴퓨터인공지능학부 학사과정 재학중
+    summary: Undergraduate program in Computer Science and Artificial Intelligence
 
 skills:
-  - name: 스킬
+  - name: Skills
     items:
       - name: C/C++
         description: ''
@@ -69,32 +68,32 @@ skills:
         description: ''
         percent: 80
         icon: custom/database
-  - name: 취미
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: 게임
+      - name: Game
         description: ''
         percent: 100
         icon: custom/gamepad
-      - name: 산책
+      - name: Wal
         description: ''
         percent: 70
         icon: custom/walk
-      - name: 과학 공부
+      - name: Studying Science
         description: ''
         percent: 80
         icon: custom/science
-      - name: 영화 시청
+      - name: Watching movie
         description: ''
         percent: 50
         icon: custom/movie
 languages:
-  - name: 한국어
+  - name: korean
     percent: 100
-  - name: 영어
+  - name: english
     percent: 70
-  - name: 독어
+  - name: deutsch
     percent: 50
 
 # Highlight the author in author lists? (true/false)
@@ -104,6 +103,6 @@ highlight_name: true
 website: ""
 ---
 
-# 소개
+# Introduce
 <span style="font-size:125%; color: #ffffff" >
-안녕하세요! 제 이름은 <strong>최현솔</strong>이라고 합니다. 현재 전북대학교에서 컴퓨터인공지능을 전공하고 있습니다. 현재는 웹 개발에 관심이 있어 공부 중입니다. 이외에도 데이터베이스, 알고리즘과 같은 다양한 전공 관련 지식들을 쌓는 중 입니다. 추후에 유능한 개발자로서 개발 부서에서 근무하는 것이 저의 목표입니다. 응원해주시면 감사하겠습니다. </span>
+Hi! I'm hyunsol choi and computer engineering student at Jeonbuk National University. Currently, I'm interested in web development, so studying it. In addition, I am studying various computer science fields to gain major knowledge, such as Database and Algorithm. It is my goal to be a competent developer and work in the development team. I'd appreciate it if you could cheer me on. I would be grateful for your support. Thank you! </span>

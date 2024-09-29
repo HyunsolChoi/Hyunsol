@@ -3,8 +3,17 @@
 
 main:
   - name: About
-    url: en/about
+    url: about/
     weight: 100
+  - parent: About
+    name: Profile
+    url: about/
+    weight: 110
+  - parent: About
+    name: etc.
+    url: skills/
+    weight: 120
+
   - name: Topics
     url: tags/
     weight: 200

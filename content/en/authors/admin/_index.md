@@ -37,6 +37,8 @@ profiles:
     url: https://www.instagram.com/s._.ol_02/
   - icon: custom/github
     url: https://github.com/HyunsolChoi
+  - icon: brands/discord    
+    url: https://discord.gg/zbbK7qqWf3
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -45,4 +47,8 @@ highlight_name: true
 website: ""
 ---
 
-Hi! I'm hyunsol choi and computer engineering student at Jeonbuk National University. Currently, I'm interested in web development, so studying it. In addition, I am studying various computer science fields to gain major knowledge, such as Database and Algorithm. It is my goal to be a competent developer and work in the development team. I'd appreciate it if you could cheer me on. I would be grateful for your support. Thank you!
+<br>
+<span style="font-size:130%;" >
+Welcome to Hyunsol's Portfolio! </span>
+
+

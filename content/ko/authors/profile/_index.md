@@ -46,7 +46,6 @@ education:
   - area: 컴퓨터인공지능학부 학사과정 
     color: '#ffffff'
     institution: 전북대학교
-      color: '#ffffff'
     date_start: 2021
     date_end: 2024
     summary: |

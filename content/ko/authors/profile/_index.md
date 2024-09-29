@@ -44,7 +44,9 @@ interests:
 
 education:
   - area: 컴퓨터인공지능학부 학사과정 
+    color: '#ffffff'
     institution: 전북대학교
+      color: '#ffffff'
     date_start: 2021
     date_end: 2024
     summary: |
@@ -53,7 +55,7 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: C
+      - name: C/C++
         description: ''
         percent: 100
         icon: code-bracket
@@ -61,7 +63,7 @@ skills:
         description: ''
         percent: 60
         icon: chart-bar
-      - name: SQL
+      - name: SQL(MySQL)
         description: ''
         percent: 80
         icon: circle-stack
@@ -69,26 +71,29 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Game
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: gamepad.svg
+      - name: Walk
+        description: ''
+        percent: 60
+        icon: walk.svg
+      - name: Watching youtube
         description: ''
         percent: 80
-        icon: camera
-
+        icon: youtube.svg
+      - name: Study Science
+        description: ''
+        percent: 80
+        icon: science.svg
 languages:
   - name: Korean
     percent: 100
   - name: English
     percent: 70
   - name: Deutsch
-    percent: 35
+    percent: 40
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

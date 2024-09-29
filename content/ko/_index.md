@@ -1,5 +1,5 @@
 ---
-title: My page
+title: ""
 hide_date: true
 type: landing
 

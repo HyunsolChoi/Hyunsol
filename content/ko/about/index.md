@@ -18,7 +18,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: about_background.jpg
+          filename: unsplash-darkgreen.jpg
           filters:
             brightness: 1.0
           size: cover

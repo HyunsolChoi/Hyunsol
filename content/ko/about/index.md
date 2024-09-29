@@ -10,7 +10,7 @@ sections:
       username: profile
       text: ""
     design:
-      css_class: dark
+      css_class: light
       biography:
         style: 'text-align: justify; font-size: 0.8em; color: #f5f666'
       background:

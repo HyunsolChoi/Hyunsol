@@ -20,7 +20,7 @@ cascade:
     hide_date: false
     show_date_updated: true
     reading_time: false
-    commentable: true
+    commentable: false
     show_related: true
     share: false
     # Just use Breadcrumb for navigation on blog post pages?

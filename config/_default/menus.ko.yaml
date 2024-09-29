@@ -10,7 +10,7 @@ main:
     url: about/
     weight: 110
   - parent: 소개
-    name: 기술 및 기타
+    name: 기타
     url: skills/
     weight: 120
 

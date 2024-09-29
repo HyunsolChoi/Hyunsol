@@ -22,9 +22,9 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: unsplash-darkgreen.jpg
+          filename: coding.jpg
           filters:
-            brightness: 1.0
+            brightness: 0.8
           size: cover
           position: center
           parallax: false

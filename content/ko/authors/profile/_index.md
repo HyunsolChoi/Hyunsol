@@ -70,8 +70,6 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      design: 
-        
       - name: Game
         description: ''
         percent: 100

@@ -70,6 +70,8 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
+      design: 
+        
       - name: Game
         description: ''
         percent: 100
@@ -78,10 +80,6 @@ skills:
         description: ''
         percent: 70
         icon: custom/walk
-      - name: Watching youtube
-        description: ''
-        percent: 80
-        icon: custom/youtube
       - name: Study Science
         description: ''
         percent: 80

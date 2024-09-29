@@ -62,6 +62,10 @@ skills:
         description: ''
         percent: 60
         icon: custom/java
+      - name: python
+        description: ''
+        percent: 60
+        icon: custom/python
       - name: MySQL
         description: ''
         percent: 80

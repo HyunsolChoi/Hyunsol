@@ -42,6 +42,6 @@ highlight_name: true
 # Author's website URL
 website: ""
 ---
-
+<br>
 <span style="font-size:130%; color: #ffffff" >
 최현솔의 포트폴리오에 오신걸 환영합니다! </span>

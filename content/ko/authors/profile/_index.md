@@ -78,11 +78,11 @@ skills:
         description: ''
         percent: 70
         icon: custom/walk
-      - name: Study Science
+      - name: Studying Science
         description: ''
         percent: 80
         icon: custom/science
-      - name: Watch movie
+      - name: Watching movie
         description: ''
         percent: 50
         icon: custom/movie

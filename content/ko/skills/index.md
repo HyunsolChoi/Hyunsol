@@ -8,7 +8,7 @@ sections:
       title: 기술 및 취미
       username: profile
     design:
-      show_skill_percentage: false
+      show_skill_percentage: true
   - block: resume-languages
     content:
       title: 언어

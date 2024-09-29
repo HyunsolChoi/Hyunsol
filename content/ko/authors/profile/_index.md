@@ -51,7 +51,7 @@ education:
       전북대학교 컴퓨터인공지능학부 학사과정 재학중
 
 skills:
-  - name: Technical Skills
+  - name: 스킬
     items:
       - name: C/C++
         description: ''
@@ -69,33 +69,33 @@ skills:
         description: ''
         percent: 80
         icon: custom/database
-  - name: Hobbies
+  - name: 취미
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Game
+      - name: 게임
         description: ''
         percent: 100
         icon: custom/gamepad
-      - name: Walk
+      - name: 산책
         description: ''
         percent: 70
         icon: custom/walk
-      - name: Studying Science
+      - name: 과학 공부
         description: ''
         percent: 80
         icon: custom/science
-      - name: Watching movie
+      - name: 영화 시청
         description: ''
         percent: 50
         icon: custom/movie
 languages:
-  - name: Korean
+  - name: 한국어
     percent: 100
-  - name: English
+  - name: 영어
     percent: 70
-  - name: Deutsch
-    percent: 40
+  - name: 독어
+    percent: 50
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
@@ -105,5 +105,5 @@ website: ""
 ---
 
 # 소개
-<span style="font-size:140%; color: #ffffff" >
+<span style="font-size:120%; color: #ffffff" >
 안녕하세요! 제 이름은 최현솔이라고 합니다! 전북대학교에서 컴퓨터공학을 전공하고 있습니다. 현재는 웹 개발에 관심이 있어 공부 중입니다. 또, 데이터베이스 혹은 알고리즘과 같은 다양한 전공 관련 지식들을 쌓는 중 입니다. 추후에 유능한 개발자로서 개발 부서에서 근무하는 것이 저의 목표입니다. 응원해주시면 감사하겠습니다. </span>

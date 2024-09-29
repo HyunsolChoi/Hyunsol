@@ -23,7 +23,7 @@ sections:
           - blog
       sort_by: 'Date'
       text: 'Recent Posts'
-      count: 5
+      count: 0
     design:
       spacing:
         padding: ['3rem', 0, '6rem', 0]

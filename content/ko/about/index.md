@@ -3,6 +3,10 @@ title: Title
 hide_date: true
 type: landing
 
+header:
+  navbar:
+    show_theme_chooser: false
+
 
 sections:
   - block: resume-biography-3

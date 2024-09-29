@@ -53,17 +53,17 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C
         description: ''
-        percent: 80
+        percent: 100
         icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 60
         icon: chart-bar
       - name: SQL
         description: ''
-        percent: 40
+        percent: 80
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'

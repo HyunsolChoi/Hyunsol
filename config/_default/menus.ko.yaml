@@ -7,11 +7,11 @@ main:
     weight: 100
   - parent: 소개
     name: 프로필
-    url: /authors/profile
+    url: about/
     weight: 110
   - parent: 소개
     name: 기술 및 기타
-    url: about/
+    url: skills/
     weight: 120
 
   - name: 태그

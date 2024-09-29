@@ -8,7 +8,7 @@ design:
 sections:   
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: 기술 및 취미
       username: profile
     design:
       show_skill_percentage: false

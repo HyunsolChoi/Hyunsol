@@ -24,15 +24,5 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: resume-skills
-    content:
-      title: Skills & Hobbies
-      username: profile
-    design:
-      show_skill_percentage: false
-  - block: resume-languages
-    content:
-      title: 언어
-      username: profile
 
 ---

@@ -73,11 +73,11 @@ skills:
       - name: Game
         description: ''
         percent: 100
-        icon: gamepad.svg
+        icon: gamepad
       - name: Walk
         description: ''
         percent: 60
-        icon: walk.svg
+        icon: walk
       - name: Watching youtube
         description: ''
         percent: 80

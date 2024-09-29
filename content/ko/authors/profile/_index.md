@@ -44,13 +44,13 @@ interests:
 
 education:
   - area: 컴퓨터인공지능학부 학사과정 
+      design:
+        style: font-size:110%; color:#ffffff;
     institution: 전북대학교
     date_start: 2021
     date_end: 2024
     summary: |
       전북대학교 컴퓨터인공지능학부 학사과정 재학중
-    design:
-     style: font-size:110%; color:#ffffff;
 
 
 # Highlight the author in author lists? (true/false)

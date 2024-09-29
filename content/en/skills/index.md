@@ -11,6 +11,6 @@ sections:
       show_skill_percentage: true
   - block: resume-languages
     content:
-      title: Language
+      title: Languages
       username: profile
 ---

@@ -4,7 +4,6 @@ hide_date: true
 type: landing
 
 
-
 sections:
   - block: resume-biography-3
     content:

@@ -76,7 +76,7 @@ skills:
         description: ''
         percent: 100
         icon: custom/gamepad
-      - name: Wal
+      - name: Walk
         description: ''
         percent: 70
         icon: custom/walk

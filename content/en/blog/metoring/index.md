@@ -1,6 +1,9 @@
 ---
-title: 2022-1 Departmental club(WHO) Mentoring
+title: 2022-1 club(WHO) Mentoring
 date: 2024-09-22
+
+tags:
+  - TEACHING
 
 summary: "As a mentor, I taught C language and basic algorithms to new students. "
 ---

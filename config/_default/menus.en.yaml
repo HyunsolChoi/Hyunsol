@@ -4,10 +4,10 @@
 main:
   - name: About
     url: en/about
-    weight: 10
+    weight: 100
   - name: Topics
     url: tags/
-    weight: 20
+    weight: 200
   - name: Uses
     url: uses/
-    weight: 30
+    weight: 300

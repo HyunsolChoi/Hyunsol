@@ -18,7 +18,7 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: '전북대학교 최현솔'
+    description: 'A student who become a great developer'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -27,8 +27,11 @@ marketing:
     fathom: ''
     pirsch: ''
   verification:
-    google: ''
-    baidu: ''
+    google: '전북대학교 최현솔'
+    bing: '전북대학교 최현솔'
+    baidu: '전북대학교 최현솔'
+    yandex: '전북대학교 최현솔'
+    pinterest: '전북대학교 최현솔'
 
 # Site header
 header:

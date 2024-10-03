@@ -2,6 +2,10 @@
 title: 스킬 및 기타
 type: landing
 
+banner:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: 'researchpaper.jpg'
+
 sections:   
   - block: resume-skills
     content:

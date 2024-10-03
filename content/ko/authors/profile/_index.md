@@ -75,7 +75,7 @@ skills:
     items:
       - name: 게임
         description: ''
-        percent: 100
+        percent: 60
         icon: custom/gamepad
       - name: 산책
         description: ''

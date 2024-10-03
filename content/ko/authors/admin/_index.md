@@ -43,6 +43,9 @@ highlight_name: true
 website: ""
 
 ---
+
+<span class="center">{{ .Inner | markdownify }}</span>
+
 {{< center >}} 
 <span style="font-size:130%; font-weight: bold; text-align: center">
 최현솔의 포트폴리오에 오신걸 환영합니다! </span><br>

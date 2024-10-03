@@ -74,7 +74,7 @@ skills:
     items:
       - name: Game
         description: ''
-        percent: 100
+        percent: 60
         icon: custom/gamepad
       - name: Walk
         description: ''

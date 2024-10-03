@@ -50,9 +50,11 @@ website: ""
 }
 </style>
 
+<br>
 <div class="center">
-  <span style="font-size:130%; font-weight: bold; text-align: center">
-   최현솔의 포트폴리오에 오신걸 환영합니다! </span><br>
   <span style="text-align: center">
-    웹, 데이터베이스, 알고리즘 등 다양한 분야에 대해 공부중 입니다.</span>
+    전북대학교에서 컴퓨터공학을 전공하고 있는 최현솔입니다.</span>
+  <span style="font-size:130%; font-weight: bold; text-align: center">
+    저의 포트폴리오에 오신걸 환영합니다! </span><br>
+  
 </div>

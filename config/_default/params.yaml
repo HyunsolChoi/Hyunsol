@@ -15,31 +15,32 @@ appearance:
 
 marketing:
   seo:
-    site_type: Organization
+    site_type: Person
     local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'GetResearchDev'
+    org_name: '전북대학교'
+    description: '전북대학교 컴퓨터인공지능학부 최현솔입니다'
+    twitter: ''
   analytics:
     google_analytics: ''
     baidu_tongji: ''
-    google_tag_manager: ''
-    microsoft_clarity: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
   verification:
-    google: ''
-    baidu: ''
+    google: '전북대학교 최현솔'
+    pinterest: '전북대학교 최현솔'
+
 
 # Site header
 
 header:
   navbar:
     enable: true
-    align: r
-    show_logo: true
-    show_language: false
-    show_day_night: true
     show_search: true
-    highlight_active_link: false
+    show_theme_chooser: true
+    align: center
+    logo:
+      text: "Hyunsol's Portpolio"
 
 # Site footer
 

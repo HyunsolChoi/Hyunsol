@@ -60,7 +60,7 @@ sections:
             position: right
             color: '#666'
         - title: <span style="font-size:80%; font-weight:600">관심 분야에 대한 정보</span>
-          content: <span style="font-weight:500">전공 및 관심 분야에 대한 정보도 간략하게 다룹니다.</span>
+          content: 전공 및 관심 분야에 대한 정보도 간략하게 다룹니다.
           align: 
           background:
             image:
@@ -71,22 +71,22 @@ sections:
                 brightness: 0.4
             position: center
             color: '#555'
-        - title: World-Class Semiconductor Lab
-          content: 'Just opened last month!'
+        - title: <span style="font-size:80%; font-weight:600">연락 및 대면</span>
+          content: 페이지에 대한 피드백 혹은 연락은 아래 버튼을 눌러주세요
           align: right
           background:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: welcome.jpg
+              filename: contact.jpg
               filters:
                 brightness: 0.5
             position: center
             color: '#333'
           link:
-            icon: graduation-cap
+            icon: paper-plane
             icon_pack: fas
-            text: Join Us
+            text: Contact
             url: contact
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')

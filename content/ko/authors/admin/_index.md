@@ -29,14 +29,16 @@ organizations:
 bio: 웹 개발과 데이터베이스에 관심이 있고 그 외에 다양한 컴퓨터 과학 분야를 공부 중 입니다.
 
 interests:
-  - 데이터 베이스<br>
-  - 알고리즘<br>
-  - 웹 개발<br>
+  - 데이터 베이스
+  - 알고리즘
+  - 웹 개발
+  - 인공지능
 
 education:
   courses:
     - course: 컴퓨터인공지능학부 학사과정
       institution: 전북대학교
+
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

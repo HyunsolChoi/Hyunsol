@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: contact
     content:
-      title: <span style="font-weight:bold>피드백 및 문의</span>
+      title: <span style="font-weight:bold">피드백 및 문의</span>
       text: | 
         <br> <span style="font-size:90%; font-weight:bold">피드백 및 기타 문의사항은 아래 내용들을 참고해주시면 감사하겠습니다.</span><br>
       email: lasang2@naver.com
@@ -26,15 +26,15 @@ sections:
       contact_links:
         - icon: instagram
           icon_pack: fab
-          name: Instagram Link
+          name: 인스타그램
           link: https://www.instagram.com/s._.ol_02/
         - icon: discord
           icon_pack: fab
-          name: Discord Link
+          name: 디스코드 채널
           link: https://github.com/HyunsolChoi
         - icon: github
           icon_pack: fab
-          name: Github Link
+          name: 깃허브
           link: https://github.com/HyunsolChoi
     
       # Automatically link email and phone or display as text?

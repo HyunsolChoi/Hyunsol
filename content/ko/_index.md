@@ -21,10 +21,6 @@ sections:
     design:
       spacing:
         padding: [0, 0, 0, 0]
-      banner:
-        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
-        caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-        filename: coding.jpg
  
   - block: collection
     content:
@@ -48,6 +44,59 @@ sections:
       text: See all blog posts
       link: post/
     
+  - block: slider
+    content:
+      slides:
+        - title: 포트폴리오 페이지 오신걸 환영합니다!
+          content: 해당 페이지는 저를 소개하기 위해 만들어졌습니다.
+          align: center
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: laptop.jpg
+              filters:
+                brightness: 0.8
+            position: right
+            color: '#666'
+        - title: 관심 분야에 대한 정보
+          content: 전공 및 관심 분야에 대한 정보를 간략하게 다룹니다.
+          align: 
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: coding.jpg
+              filters:
+                brightness: 0.6
+            position: center
+            color: '#555'
+        - title: World-Class Semiconductor Lab
+          content: 'Just opened last month!'
+          align: right
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: welcome.jpg
+              filters:
+                brightness: 0.5
+            position: center
+            color: '#333'
+          link:
+            icon: graduation-cap
+            icon_pack: fas
+            text: Join Us
+            url: ../contact/
+    design:
+      # Slide height is automatic unless you force a specific height (e.g. '400px')
+      slide_height: ''
+      # Make the slides full screen within the browser window?
+      is_fullscreen: true
+      # Automatically transition through slides?
+      loop: false
+      # Duration of transition between slides (in ms)
+      interval: 2000
   # - block: markdown
   #   content:
   #     title:

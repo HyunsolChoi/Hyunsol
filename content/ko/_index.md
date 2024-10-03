@@ -30,9 +30,9 @@ sections:
 
   - block: collection
     content:
-      title: Latest News
-      subtitle:
-      text:
+      title: <strong>Latest Posts</strong>
+      subtitle: 
+      text: 
       count: 5
       filters:
         folders:
@@ -42,7 +42,7 @@ sections:
       page_type: post
     design:
       spacing:
-         padding: ['1rem', 0, '2rem', 0]
+         padding: ['1rem', '15rem', '2rem', '15rem']
       view: compact
       columns: 1
     archive:

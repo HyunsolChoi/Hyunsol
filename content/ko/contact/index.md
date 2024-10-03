@@ -1,6 +1,6 @@
 ---
 title: Contact
-date: 2024-10-04
+date: 2024-10-03
 
 type: landing
 

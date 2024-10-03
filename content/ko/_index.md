@@ -18,6 +18,15 @@ sections:
         <span style="font-size:130%; font-weight: bold; text-align: center">
           저의 포트폴리오에 오신걸 환영합니다! </span><br>
         </div>
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
+      biography:
+        style: 'text-align: justify; font-size: 0.8em;'
+      banner:
+        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
+        filename: coding.jpg
+        caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
 
   - block: collection
     content:

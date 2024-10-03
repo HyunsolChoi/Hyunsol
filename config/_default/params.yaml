@@ -65,3 +65,54 @@ features:
     url: 'https://github.com/HugoBlox/hugo-blox-builder/'
     content_dir: starters/blog/content
     branch: main
+
+collections:
+  - name: authors
+    label: Authors
+    label_singular: Author
+    folder: 'content/authors'
+    path: '{{slug}}/_index'
+    filter: {field: "cms_exclude"}
+    create: true  # Allow users to create new documents in this collection
+    fields:  # The fields each document in this collection have
+      - {label: "Display name (such as your full name)", name: "title", widget: "string"}
+      - {label: "First name", name: "first_name", widget: "string", required: false}
+      - {label: "Last name", name: "last_name", widget: "string", required: false}
+      - {label: "Position or tagline (such as Professor of AI)", name: "role", widget: "string", required: false}
+      - label: "Avatar (upload an image named `avatar.jpg/png`)"
+        name: "avatar_filename"
+        widget: "image"
+        default: "avatar"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - {label: "Short biography (shown in author boxes)", name: "bio", widget: "string", required: false}
+      - {label: "Full biography (shown in About widget)", name: "body", widget: "markdown", required: false}
+      - label: Social links
+        name: social
+        required: false
+        widget: list
+        fields:
+          - {label: Link, name: link, widget: string}
+          - label: Icon pack
+            name: icon_pack
+            widget: select
+            multiple: false
+            options:
+              - {label: "None", value: ""}
+              - {label: "Solid", value: "fas"}
+              - {label: "Regular", value: "far"}
+              - {label: "Brand", value: "fab"}
+              - {label: "Academic", value: "ai"}
+          - {label: Icon (see https://docs.hugoblox.com/getting-started/page-builder/#icons), name: icon, widget: string}
+          - {label: Label (tooltip), name: label, widget: string, required: false}
+          - label: Display in About widget and...
+            name: display
+            widget: object
+            fields:
+              - label: "Header (main menu)"
+                name: "header"
+                widget: "boolean"
+                default: false
+                required: false

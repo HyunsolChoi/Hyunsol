@@ -39,7 +39,7 @@ sections:
       items:
         - name: 데이터베이스
           description: 데이터베이스는 데이터를 체계적으로 저장하고 관리하는 시스템으로, 여러 사용자와 응용 프로그램이 효율적으로 데이터를 생성, 조회, 수정 및 삭제할 수 있도록 돕습니다.
-          icon: database
+          icon: fa-database
           icon_pack: fas
         - name: Statistics
           description: 100%

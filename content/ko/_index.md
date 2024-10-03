@@ -16,24 +16,23 @@ sections:
         <span style="text-align: center"><br>
           안녕하세요! 전북대학교에서 컴퓨터공학을 전공하고 있는 최현솔입니다.</span><br>
         <span style="font-size:130%; font-weight: bold; text-align: center">
-          저의 포트폴리오에 오신걸 환영합니다! </span><br>
+          포트폴리오에 오신걸 환영합니다! </span><br>
         </div>
     design:
       spacing:
         padding: [0, 0, 0, 0]
-      biography:
-        style: 'text-align: justify; font-size: 0.8em;'
       banner:
         # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
-        filename: coding.jpg
         caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+        filename: coding.jpg
+ 
 
   - block: collection
     content:
       title: <strong>Latest Posts</strong>
       subtitle: 
       text: 
-      count: 5
+      count: 4
       filters:
         folders:
           - post
@@ -42,7 +41,7 @@ sections:
       page_type: post
     design:
       spacing:
-         padding: ['1rem', '15rem', '2rem', '15rem']
+         padding: ['2vh', '6vh', '3vh', '6vh']
       view: compact
       columns: 1
     archive:

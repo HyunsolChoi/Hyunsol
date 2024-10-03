@@ -42,8 +42,8 @@ sections:
       page_type: post
     design:
       spacing:
-        padding: ['3rem', 0, '6rem', 0]
-      view: compact
+        # padding: ['3rem', 0, '6rem', 0]
+      view: list
       columns: 2
   
   - block: markdown

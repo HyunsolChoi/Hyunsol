@@ -36,11 +36,12 @@ marketing:
 header:
   navbar:
     enable: true
+    align: c
     show_search: true
     show_theme_chooser: true
-    align: center
-    logo:
-      text: "Hyunsol's Portpolio"
+    show_logo: true
+    show_day_night: true
+    show_language: true
 
 # Site footer
 

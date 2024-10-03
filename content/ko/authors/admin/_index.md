@@ -33,7 +33,7 @@ education:
   courses:
     - course: 컴퓨터인공지능학부 학사과정
       institution: 전북대학교
-      year: 2021
+      year: 2021 ~
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons

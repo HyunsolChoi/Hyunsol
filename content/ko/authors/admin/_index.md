@@ -55,6 +55,56 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/HyunsolChoi
+
+skills:
+  - name: Technical
+    items:
+    - name: C/C++
+      description: ''
+      percent: 80
+      icon: c
+      icon_pack: fas
+    - name: Java
+      description: ''
+      percent: 60
+      icon: java
+      icon_pack: fab
+    - name: Python
+      description: ''
+      percent: 50
+      icon: python
+      icon_pack: fab
+    - name: MySQL/Oracle
+      description: ''
+      percent: 65
+      icon: database
+      icon_pack: fas
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: 농구
+        description: ''
+        percent: 70
+        icon: basketball
+        icon_pack: fas
+      - name: 게임
+        description: ''
+        percent: 70
+        icon: gamepad
+        icon_pack: fas
+      - name: 산책
+        description: ''
+        percent: 65
+        icon: person-walking
+        icon_pack: fas
+      - name: 과학 공부
+        description: ''
+        percent: 80
+        icon: dna
+        icon_pack: fas
+
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

@@ -6,8 +6,8 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night:
+  theme_day: forest
+  theme_night: forest
   font: native
   font_size: L
 
@@ -40,7 +40,7 @@ header:
     show_search: true
     show_logo: true
     show_day_night: true
-    show_language: true
+    show_translations: true
 
 # Site footer
 

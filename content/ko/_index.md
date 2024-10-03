@@ -5,19 +5,18 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: resume-biography
+  - block: about.avatar
+    id: about
     content:
-      # The user's folder name in content/authors/
+      # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]
-      biography:
-        style: 'text-align: justify; font-size: 0.8em;'
-      banner:
-        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
-        filename: coding.jpg
-  
+      # Override your profile text from `authors/admin/_index.md`?
+      text: |
+        <div align="center">
+          안녕하세요! 전북대학교에서 컴퓨터공학을 전공하고 있는 최현솔입니다.  
+          **저의 포트폴리오에 오신걸 환영합니다!**
+        </div>
+
   - block: collection
     content:
       title: Latest News

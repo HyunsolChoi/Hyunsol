@@ -63,8 +63,7 @@ email: 🖥️
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - Researchers
-  - Visitors
+  - admin
 ---
 <span style="font-size: 130%; font-weight: bold;">소개</span>
 

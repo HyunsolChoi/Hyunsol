@@ -51,8 +51,8 @@ sections:
   - block: slider
     content:
       slides:
-        - title: <span style="font-size:80%; font-weight:600">방문해주셔서 감사합니다</span>
-          content: 해당 웹은 저를 소개하기위해 만들어졌습니다.
+        - title: <span style="font-size:80%; font-weight:600; color:#FFB76B;">방문해주셔서 감사합니다</span>
+          content: <span style="color:#FFD6A0;">해당 웹은 저를 소개하기위해 만들어졌습니다.</span>
           align: center
           background:
             image:
@@ -63,8 +63,8 @@ sections:
                 brightness: 0.5
             position: right
             color: '#666'
-        - title: <span style="font-size:80%; font-weight:600">관심 분야에 대한 정보</span>
-          content: 전공 및 관심 분야에 대한 정보도 간략하게 다룹니다.
+        - title: <span style="font-size:80%; font-weight:600; color:#FFB76B;">관심 분야에 대한 정보</span>
+          content: <span style="color:#FFD6A0;">전공 및 관심 분야에 대한 정보도 간략하게 다룹니다.</span>
           align: 
           background:
             image:
@@ -75,8 +75,8 @@ sections:
                 brightness: 0.4
             position: center
             color: '#555'
-        - title: <span style="font-size:80%; font-weight:600">연락 및 대면</span>
-          content: 페이지에 대한 피드백 혹은 연락은 아래 버튼을 눌러주세요
+        - title: <span style="font-size:80%; font-weight:600; color:#FFB76B;">연락 및 대면</span>
+          content: <span style="color:#FFD6A0;">페이지에 대한 피드백 혹은 연락은 아래 버튼을 눌러주세요</span>
           align: right
           background:
             image:

@@ -16,10 +16,10 @@ main:
     url: skills/
     weight: 120
 
-  - name: Post
+  - name: 포스트
     url: post
     weight: 200
-  - name: Contact
+  - name: 문의
     url: contact
     weight: 500
   # - name: Tour

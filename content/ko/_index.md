@@ -60,7 +60,7 @@ sections:
               # or delete the image section to remove it
               filename: thank_you.jpg
               filters:
-                brightness: 0.8
+                brightness: 0.5
             position: right
             color: '#666'
         - title: <span style="font-size:80%; font-weight:600">관심 분야에 대한 정보</span>

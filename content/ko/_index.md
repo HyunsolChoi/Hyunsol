@@ -5,17 +5,18 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: resume-biography
     content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
-      text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+      # The user's folder name in content/authors/
+      username: admin
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
+      biography:
+        style: 'text-align: justify; font-size: 0.8em;'
+      banner:
+        # Upload a cover image to `assets/media/` folder and reference its filename here (optional)
+        filename: coding.jpg
   
   - block: collection
     content:

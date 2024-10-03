@@ -26,7 +26,6 @@ sections:
         caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
         filename: coding.jpg
  
-
   - block: collection
     content:
       title: <strong>Latest Posts</strong><br><br>
@@ -42,6 +41,7 @@ sections:
     design:
       spacing:
          padding: ['2vh', '15vh', '3vh', '15vh']
+         margin: ['0','10vh','0','10vh']
       view: compact
       columns: 1
     archive:

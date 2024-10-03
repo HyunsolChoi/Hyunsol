@@ -44,12 +44,6 @@ website: ""
 
 ---
 
-<span style="font-size:130%; font-weight: bold; text-align: center">
-최현솔의 포트폴리오에 오신걸 환영합니다! </span><br>
-<span style="text-align: center">
-웹, 데이터베이스, 알고리즘 등 다양한 분야에 대해 공부중 입니다.</span>
-
-
 <style>
 .center {
     text-align: center;
@@ -57,5 +51,8 @@ website: ""
 </style>
 
 <div class="center">
-    가운데 정렬된 텍스트입니다.
+  <span style="font-size:130%; font-weight: bold; text-align: center">
+   최현솔의 포트폴리오에 오신걸 환영합니다! </span><br>
+  <span style="text-align: center">
+    웹, 데이터베이스, 알고리즘 등 다양한 분야에 대해 공부중 입니다.</span>
 </div>

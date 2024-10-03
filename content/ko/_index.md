@@ -47,7 +47,7 @@ sections:
   - block: slider
     content:
       slides:
-        - title: 포트폴리오 페이지 오신걸 환영합니다!
+        - title: <span style="font-size:80%; font-weight:600">포트폴리오 페이지 오신걸 환영합니다!</span>
           content: 해당 페이지는 저를 소개하기 위해 만들어졌습니다.
           align: center
           background:
@@ -59,8 +59,8 @@ sections:
                 brightness: 0.8
             position: right
             color: '#666'
-        - title: 관심 분야에 대한 정보
-          content: 전공 및 관심 분야에 대한 정보를 간략하게 다룹니다.
+        - title: <span style="font-size:80%; font-weight:600">관심 분야에 대한 정보</span>
+          content: <span style="font-weight:500">전공 및 관심 분야에 대한 정보도 간략하게 다룹니다.</span>
           align: 
           background:
             image:
@@ -68,7 +68,7 @@ sections:
               # or delete the image section to remove it
               filename: coding.jpg
               filters:
-                brightness: 0.6
+                brightness: 0.4
             position: center
             color: '#555'
         - title: World-Class Semiconductor Lab
@@ -87,7 +87,7 @@ sections:
             icon: graduation-cap
             icon_pack: fas
             text: Join Us
-            url: ../contact/
+            url: contact
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: ''

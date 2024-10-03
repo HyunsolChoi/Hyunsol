@@ -24,14 +24,14 @@ sections:
       office_hours:
       appointment_url: 
       contact_links:
+        - icon: discord
+          icon_pack: fab
+          name: 디스코드 채널
+          link: https://discord.gg/zbbK7qqWf3
         - icon: instagram
           icon_pack: fab
           name: 인스타그램
           link: https://www.instagram.com/s._.ol_02/
-        - icon: discord
-          icon_pack: fab
-          name: 디스코드 채널
-          link: https://github.com/HyunsolChoi
         - icon: github
           icon_pack: fab
           name: 깃허브

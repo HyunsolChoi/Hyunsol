@@ -53,7 +53,7 @@ social:
     link: https://www.instagram.com/s._.ol_02/
   - icon: discord
     icon_pack: fab
-    link: https://github.com/HyunsolChoi
+    link: https://discord.gg/zbbK7qqWf3
   - icon: github
     icon_pack: fab
     link: https://github.com/HyunsolChoi

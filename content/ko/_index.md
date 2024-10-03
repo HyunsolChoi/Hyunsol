@@ -4,6 +4,10 @@ title:
 
 type: landing
 
+banner:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
+  image: ''
+
 sections:
   - block: about.avatar
     id: about
@@ -24,7 +28,7 @@ sections:
  
   - block: collection
     content:
-      title: <strong>Latest Posts</strong><br><br>
+      title: <strong>최근 포스</strong><br><br>
       subtitle: 
       text: 
       count: 4
@@ -135,7 +139,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Contact →" %}}
+        {{% cta cta_link="./contact/" cta_text="Contact →" %}}
     design:
       columns: '1'
 ---

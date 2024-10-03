@@ -42,8 +42,8 @@ sections:
       page_type: post
     design:
       spacing:
-         padding: ['3rem', 0, '6rem', 0]
-      view: citation
+         padding: ['1rem', 0, '2rem', 0]
+      view: showcase
       columns: 2
   
   - block: markdown

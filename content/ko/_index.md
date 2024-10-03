@@ -29,7 +29,7 @@ sections:
 
   - block: collection
     content:
-      title: <strong>Latest Posts</strong>
+      title: <strong>Latest Posts</strong><br><br>
       subtitle: 
       text: 
       count: 4
@@ -41,7 +41,7 @@ sections:
       page_type: post
     design:
       spacing:
-         padding: ['2vh', '6vh', '3vh', '6vh']
+         padding: ['2vh', '15vh', '3vh', '15vh']
       view: compact
       columns: 1
     archive:

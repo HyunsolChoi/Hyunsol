@@ -20,3 +20,6 @@ main:
   - name: 사용
     url: uses/
     weight: 300
+  - name: 연락처
+    url: contact/
+    weight: 400

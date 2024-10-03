@@ -84,9 +84,9 @@ sections:
             position: center
             color: '#333'
           link:
+            text: Contact
             icon: paper-plane
             icon_pack: fas
-            text: Contact
             url: contact
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')

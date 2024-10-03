@@ -6,8 +6,9 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
-      text: 
+      title: <span style="font-weight:bold>피드백 및 문의</span>
+      text: | 
+        <br> <span style="font-size:90%; font-weight:bold">피드백 및 기타 문의사항은 아래 내용들을 참고해주시면 감사하겠습니다.</span><br>
       email: lasang2@naver.com
       address:
         street: 전북대학교 공과대학 7호관
@@ -22,11 +23,16 @@ sections:
       directions: 
       office_hours:
       appointment_url: 
-      #contact_links:
-      #  - icon: comments
-      #    icon_pack: fas
-      #    name: Discuss on Forum
-      #    link: 'https://discourse.gohugo.io'
+      contact_links:
+        - icon: instagram
+          icon_pack: fab
+          link: https://www.instagram.com/s._.ol_02/
+        - icon: discord
+          icon_pack: fab
+          link: https://github.com/HyunsolChoi
+        - icon: github
+          icon_pack: fab
+          link: https://github.com/HyunsolChoi
     
       # Automatically link email and phone or display as text?
       autolink: true

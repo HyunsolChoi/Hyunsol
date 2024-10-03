@@ -6,6 +6,26 @@
 title: Hyunsol # Website name
 baseURL: 'https://hyunsolchoi.github.io/hyunsol/' # Website URL
 
+cascade:
+  # Blog post options
+  - _target:
+      path: /post/**
+      kind: page
+    pager: true
+    editable: false
+    hide_date: false
+    show_date_updated: true
+    reading_time: false
+    commentable: false
+    show_related: true
+    share: false
+    # Just use Breadcrumb for navigation on blog post pages?
+    show_breadcrumb: false
+    header:
+      navbar:
+        enable: true
+        align: c
+
 ############################
 ## LANGUAGE
 ############################

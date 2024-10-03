@@ -8,10 +8,13 @@ main:
     url: about
     weight: 100
   - parent: 소개
+    name: 프로필
+    url: about
+  - parent: 소개
     name: 기타
-    url: about/skills
+    url: skills
     weight: 110
-    
+
   - name: Post
     url: post
     weight: 200

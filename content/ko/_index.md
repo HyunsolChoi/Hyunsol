@@ -43,7 +43,7 @@ sections:
     design:
       spacing:
          padding: ['3rem', 0, '6rem', 0]
-      view: card
+      view: citation
       columns: 2
   
   - block: markdown

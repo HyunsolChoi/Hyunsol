@@ -18,11 +18,11 @@ status:
   icon: 🖥️
 
 # Role/position
-role: 대학생
+role: * 대학생 *
 
 # Organizations/Affiliations
 organizations:
-  - name: 전북대학교 
+  - name: * 전북대학교 * 
     url: https://www.jbnu.ac.kr
 
 # Short bio (displayed in user profile at end of posts)

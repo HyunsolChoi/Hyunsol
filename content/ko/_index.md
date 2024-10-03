@@ -43,9 +43,13 @@ sections:
     design:
       spacing:
          padding: ['1rem', 0, '2rem', 0]
-      view: showcase
-      columns: 2
-  
+      view: compact
+      columns: 1
+    archive:
+      enable: true
+      text: See all blog posts
+      link: post/
+    
   - block: markdown
     content:
       title:

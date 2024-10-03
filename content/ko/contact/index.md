@@ -26,12 +26,15 @@ sections:
       contact_links:
         - icon: instagram
           icon_pack: fab
+          name: Instagram Link
           link: https://www.instagram.com/s._.ol_02/
         - icon: discord
           icon_pack: fab
+          name: Discord Link
           link: https://github.com/HyunsolChoi
         - icon: github
           icon_pack: fab
+          name: Github Link
           link: https://github.com/HyunsolChoi
     
       # Automatically link email and phone or display as text?

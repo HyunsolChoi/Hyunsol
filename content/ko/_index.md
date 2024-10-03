@@ -34,8 +34,9 @@ sections:
   - block: markdown
     content:
       title: 연락처
-      subtitle: Contact
-      text: {{% cta cta_link="./contact/" cta_text="더보기 →" %}}
+      subtitle:
+      text: |
+        {{% cta cta_link="./contact/" cta_text="더보기 →" %}}
     design:
       columns: '1'
 ---

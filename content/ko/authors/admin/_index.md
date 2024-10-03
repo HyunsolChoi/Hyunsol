@@ -13,6 +13,10 @@ superuser: true
 authors:
   - Hyunsol
 
+# Status emoji
+status:
+  icon: 🖥️
+
 # Role/position
 role: 대학생
 

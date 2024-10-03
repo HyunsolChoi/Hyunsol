@@ -13,7 +13,7 @@ sections:
       # Override your profile text from `authors/admin/_index.md`?
       text: |
         <div>
-        <span style="text-align: center">
+        <span style="text-align: center"><br>
           안녕하세요! 전북대학교에서 컴퓨터공학을 전공하고 있는 최현솔입니다.</span><br>
         <span style="font-size:130%; font-weight: bold; text-align: center">
           저의 포트폴리오에 오신걸 환영합니다! </span><br>

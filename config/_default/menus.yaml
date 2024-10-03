@@ -4,9 +4,14 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: About
+  - name: 소개
     url: about
     weight: 100
+  - parent: 소개
+    name: 기타
+    url: about/skills
+    weight: 110
+    
   - name: Post
     url: post
     weight: 200

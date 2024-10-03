@@ -33,7 +33,7 @@ sections:
       title: Latest News
       subtitle:
       text:
-      count: 4
+      count: 5
       filters:
         folders:
           - post
@@ -43,7 +43,7 @@ sections:
     design:
       spacing:
         padding: ['3rem', 0, '6rem', 0]
-      view: article-grid
+      view: showcase
       columns: 2
   
   - block: markdown

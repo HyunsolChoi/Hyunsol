@@ -6,7 +6,7 @@ type: landing
 
 banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-  image: ''
+  image: 'laptop.jpg'
 
 sections:
   - block: about.avatar
@@ -51,14 +51,14 @@ sections:
   - block: slider
     content:
       slides:
-        - title: <span style="font-size:80%; font-weight:600">포트폴리오 페이지 오신걸 환영합니다!</span>
-          content: 해당 페이지는 저를 소개하기 위해 만들어졌습니다.
+        - title: <span style="font-size:80%; font-weight:600">방문해주셔서 감사합니다</span>
+          content: 해당 웹은 저를 소개하기위해 만들어졌습니다.
           align: center
           background:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: laptop.jpg
+              filename: thank_you.jpg
               filters:
                 brightness: 0.8
             position: right

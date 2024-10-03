@@ -63,8 +63,8 @@ sections:
                 brightness: 0.5
             position: right
             color: '#666'
-        - title: <span style="font-size:80%; font-weight:600; color:#FFB76B;">관심 분야에 대한 정보</span>
-          content: <span style="color:#FFD6A0;">전공 및 관심 분야에 대한 정보도 간략하게 다룹니다.</span>
+        - title: <span style="font-size:80%; font-weight:600; color:#0073E6;">관심 분야에 대한 정보</span>
+          content: <span style="color:#66B2FF;">전공 및 관심 분야에 대한 정보도 간략하게 다룹니다.</span>
           align: 
           background:
             image:

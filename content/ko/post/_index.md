@@ -1,5 +1,5 @@
 ---
-title: <span style="font-weight:bold">포스트</span>
+title: 포스트
 
 # Listing view
 view: compact

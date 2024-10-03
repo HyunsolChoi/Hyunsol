@@ -28,7 +28,7 @@ sections:
  
   - block: collection
     content:
-      title: <strong>최근 포스</strong><br><br>
+      title: <strong>최근 포스트</strong><br><br>
       subtitle: 
       text: 
       count: 4
@@ -98,9 +98,10 @@ sections:
       # Make the slides full screen within the browser window?
       is_fullscreen: true
       # Automatically transition through slides?
-      loop: false
+      loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 5000
+
   # - block: markdown
   #   content:
   #     title:

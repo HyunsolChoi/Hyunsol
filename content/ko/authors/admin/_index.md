@@ -41,6 +41,9 @@ highlight_name: true
 
 # Author's website URL
 website: ""
+
+design:
+  align: center
 ---
 <br>
 <span style="font-size:130%; font-weight: bold; text-align: center">

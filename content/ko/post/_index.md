@@ -1,5 +1,5 @@
 ---
-title: 포스트
+title: 
 
 # Listing view
 view: compact
@@ -9,3 +9,5 @@ banner:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
   image: ''
 ---
+
+<span style="font-weight:bold; text-align:center;">포스트</span>

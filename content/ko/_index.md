@@ -94,7 +94,7 @@ sections:
       page_type: post
     design:
       spacing:
-         padding: ['5vh', '15vh', '3vh', '15vh']
+         padding: ['5vh', '15vh', '7vh', '15vh']
       view: compact
       columns: 1
     archive:

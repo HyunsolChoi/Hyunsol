@@ -17,16 +17,8 @@ main:
     weight: 120
 
   - name: Post
-    url: post
+    url: posts
     weight: 200
-  - parent: Post
-    name: List
-    url: post
-    weight: 210
-  - parent: Post
-    name: Cloud
-    url: cloud
-    weight: 220
 
   - name: Contact
     url: contact

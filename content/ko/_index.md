@@ -79,11 +79,11 @@ sections:
  
   - block: features
     content:
-      title: 현재 관심 분야
+      title: <span style="font-weight:bold">현재 관심 분야</span>
       subtitle: 
       text: <span style="font-size:130%">이러한 분야에 관심이 있습니다</span>
       items:
-        - name: <span style="font-weight:bold">Database</span>
+        - name: <span style="font-size:110%; font-weight:bold">Database</span>
           description: |
             <span style="font-size:120%; font-weight: 550">SQL을 통한 데이터베이스 설계 및 제어</span>
           icon: database

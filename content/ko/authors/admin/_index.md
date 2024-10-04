@@ -81,6 +81,11 @@ skills:
       percent: 65
       icon: database
       icon_pack: fas
+    - name: R
+      description: ''
+      percent: 50
+      icon: r-project
+      icon_pack: fab
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -105,6 +110,12 @@ skills:
         percent: 80
         icon: dna
         icon_pack: fas
+      - name: 영화 시청
+        description: ''
+        percent: 80
+        icon: film
+        icon_pack: fas
+
 
 
 # Link to a PDF of your resume/CV from the About widget.

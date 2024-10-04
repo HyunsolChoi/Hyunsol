@@ -16,7 +16,7 @@ main:
     url: skills/
     weight: 120
 
-  - name: Interests
+  - name: Interest
     url: interests
     weight: 200
 

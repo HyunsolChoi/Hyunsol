@@ -21,8 +21,8 @@ sections:
                 brightness: 0.5
             position: right
             color: '#666'
-        - title: <span style="font-size:80%; font-weight:600; color:#EAB8E4;">관심 분야에 대한 정보</span>
-          content: <span style="color:#F4D3ED; font-weight:600;">전공 및 관심 분야에 대한 정보도 간략하게 다룹니다</span>
+        - title: <span style="font-size:80%; font-weight:600; color:#EAB8E4;">"소개"</span>
+          content: <span style="color:#F4D3ED; font-weight:600;">제가 누구인지 간략히 소개합니다</span>
           align: 
           background:
             image:
@@ -33,6 +33,11 @@ sections:
                 brightness: 0.4
             position: center
             color: '#555'
+          link:
+            text: Profile
+            icon: user
+            icon_pack: fas
+            url: about/
         - title: <span style="font-size:80%; font-weight:600; color:#FFB76B;">피드백 및 문의</span>
           content: <span style="color:#FFD6A0; font-weight:600;">피드백 및 문의, 컨택은 언제든 환영합니다</span>
           align: right

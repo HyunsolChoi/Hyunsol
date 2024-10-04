@@ -16,9 +16,13 @@ main:
     url: skills/
     weight: 120
 
+  - name: Interests
+    url: interests
+    weight: 200
+
   - name: Post
     url: posts
-    weight: 200
+    weight: 300
 
   - name: Contact
     url: contact

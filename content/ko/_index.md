@@ -8,8 +8,9 @@ sections:
   - block: slider
     content:
       slides:
-        - title: <span style="font-size:80%; font-weight:600; color:#00B2B2;">저의 포트폴리오에 방문해주셔서 감사합니다</span>
-          content: <span style="color:#00BFBF; font-weight:600;">해당 웹은 저를 소개하는 것을 목적으로 만들어졌습니다.</span>
+        - title: | 
+            <span style="font-size:80%; font-weight:600; color:#00B2B2;">안녕하세요. 백엔드를 공부 중인 최현솔입니다.</span>
+          content: <span style="color:#00BFBF; font-weight:600;">저의 포트폴리오에 방문해주셔서 감사합니다!</span>
           align: center
           background:
             image:
@@ -67,10 +68,11 @@ sections:
       # Override your profile text from `authors/admin/_index.md`?
       text: |
         <div>
-        <span style="text-align: center"><br>
-          안녕하세요! 전북대학교에서 컴퓨터공학을 전공하고 있는 최현솔입니다.</span><br>
-        <span style="font-size:130%; font-weight: bold; text-align: center">
-          포트폴리오에 오신걸 환영합니다! </span><br>
+        <span style="font-size:120%; font-weight: bold; text-align: center"><br>
+          전북대학교에서 컴퓨터공학을 전공하고 있는 <strong>최현솔</strong>입니다.<br>
+          유능한 백엔드 개발자가 되기위해 공부 중입니다. <br>
+          응원해주시면 감사하겠습니다!
+        </span>
         </div>
     design:
       spacing:

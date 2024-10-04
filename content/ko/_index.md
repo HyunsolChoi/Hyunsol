@@ -41,12 +41,12 @@ sections:
     design:
       spacing:
          padding: ['5vh', '15vh', '3vh', '15vh']
-      view: compact
+      view: article-grid
       columns: 2
-    archive:
-      enable: true
-      text: See all blog posts
-      link: post/
+    # archive:
+    #   enable: true
+    #   text: See all blog posts
+    #   link: post/
     
   - block: slider
     content:

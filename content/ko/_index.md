@@ -9,8 +9,8 @@ sections:
     content:
       slides:
         - title: | 
-            <span style="font-size:80%; font-weight:600; color:#00B2B2;">안녕하세요. 백엔드를 공부 중인 최현솔입니다.</span>
-          content: <span style="color:#00BFBF; font-weight:600;">저의 포트폴리오에 방문해주셔서 감사합니다!</span>
+            <span style="font-size:80%; font-weight:600;">안녕하세요. 백엔드를 공부 중인 최현솔입니다</span>
+          content: <span style="font-weight:600;">저의 포트폴리오에 방문해주셔서 감사합니다!</span>
           align: center
           background:
             image:
@@ -22,7 +22,7 @@ sections:
             position: right
             color: '#666'
         - title: <span style="font-size:80%; font-weight:600; color:#EAB8E4;">관심 분야에 대한 정보</span>
-          content: <span style="color:#F4D3ED; font-weight:600;">전공 및 관심 분야에 대한 정보도 간략하게 다룹니다.</span>
+          content: <span style="color:#F4D3ED; font-weight:600;">전공 및 관심 분야에 대한 정보도 간략하게 다룹니다</span>
           align: 
           background:
             image:
@@ -80,21 +80,21 @@ sections:
   - block: features
     content:
       title: 관심분야
-      subtitle: Section subtitle
-      text: Section text
+      subtitle: 
+      text: 이러한 분야에 관심이 있습니다.
       items:
         - name: Database
-          description: 90%
-          icon: r-project
+          description: SQL을 통한 데이터베이스 설계 및 제어
+          icon: database
+          icon_pack: fas
+        - name: Algorithm
+          description: 알고리즘을 이용한 보다 효율적인 서비스 설계
+          icon: gears
+          icon_pack: fas
+        - name: Web
+          description: Node.js 등을 이용한 서버측과의 통신 설계 및 관리
+          icon: chrome
           icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
 
   - block: collection
     content:

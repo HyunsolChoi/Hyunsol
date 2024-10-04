@@ -84,7 +84,8 @@ sections:
       text: <span style="font-size:130%">이러한 분야에 관심이 있습니다</span>
       items:
         - name: Database
-          description: SQL을 통한 데이터베이스 설계 및 제어
+          description: |
+            <span style="font-size:120%; font-weight: bold">SQL을 통한 데이터베이스 설계 및 제어</span>
           icon: database
           icon_pack: fas
         - name: Algorithm
@@ -97,7 +98,7 @@ sections:
           icon_pack: fab
     design:
       spacing:
-        padding: ['5vh', 0, '0vh', 0]
+        padding: ['5vh', 0, '5vh', 0]
 
   - block: features
     content:

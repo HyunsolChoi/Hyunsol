@@ -4,28 +4,7 @@ title:
 
 type: landing
 
-banner:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-  image: 'laptop.jpg'
-
 sections:
-  - block: about.avatar
-    id: about
-    content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
-      # Override your profile text from `authors/admin/_index.md`?
-      text: |
-        <div>
-        <span style="text-align: center"><br>
-          안녕하세요! 전북대학교에서 컴퓨터공학을 전공하고 있는 최현솔입니다.</span><br>
-        <span style="font-size:130%; font-weight: bold; text-align: center">
-          포트폴리오에 오신걸 환영합니다! </span><br>
-        </div>
-    design:
-      spacing:
-        padding: [0, 0, 0, 0]
-
   - block: slider
     content:
       slides:
@@ -54,7 +33,7 @@ sections:
             position: center
             color: '#555'
         - title: <span style="font-size:80%; font-weight:600; color:#FFB76B;">피드백 및 문의</span>
-          content: <span style="color:#FFD6A0; font-weight:600;">페이지에 대한 피드백 및 문의는 아래 버튼을 참고바랍니다.</span>
+          content: <span style="color:#FFD6A0; font-weight:600;">피드백 및 문의, 컨택은 언제든 환영합니다</span>
           align: right
           background:
             image:
@@ -79,6 +58,23 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 5000
+
+  - block: about.avatar
+    id: about
+    content:
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
+      # Override your profile text from `authors/admin/_index.md`?
+      text: |
+        <div>
+        <span style="text-align: center"><br>
+          안녕하세요! 전북대학교에서 컴퓨터공학을 전공하고 있는 최현솔입니다.</span><br>
+        <span style="font-size:130%; font-weight: bold; text-align: center">
+          포트폴리오에 오신걸 환영합니다! </span><br>
+        </div>
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
  
   - block: collection
     content:

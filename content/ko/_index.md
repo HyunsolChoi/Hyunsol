@@ -16,7 +16,7 @@ sections:
             image:
               # Specify an image from `assets/media/`
               # or delete the image section to remove it
-              filename: thank_you.jpg
+              filename: laptop.jpg
               filters:
                 brightness: 0.5
             position: right

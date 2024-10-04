@@ -29,9 +29,9 @@ organizations:
 bio: 웹 개발과 데이터베이스에 관심이 있고 그 외에 다양한 컴퓨터 과학 분야를 공부 중 입니다.
 
 interests:
-  - <span font-weight:"550">데이터 베이스<br></span>
-  - <span font-weight:"550">알고리즘<br></span>
-  - <span font-weight:"550">웹 개발</span>
+  - 데이터 베이스
+  - 알고리즘
+  - 웹 개발
 
 education:
   courses:
@@ -131,6 +131,6 @@ email: 🖥️
 user_groups:
   - admin
 ---
-<span style="font-size: 150%; font-weight: bold;">소개</span>
+<span style="font-size: 150%; font-weight: bold;">소개
 
 안녕하세요! 제 이름은 <strong>최현솔</strong>이라고 합니다. 전북대학교 컴퓨터인공지능학부에 재학 중입니다. 현재는 웹 개발에 관심이 있어 공부 중입니다. 이외에도 데이터베이스, 알고리즘과 같은 다양한 전공 관련 지식들을 쌓는 중 입니다. 추후에 유능한 개발자로서 개발 부서에서 근무하는 것이 저의 목표입니다. 응원해주시면 감사하겠습니다. 

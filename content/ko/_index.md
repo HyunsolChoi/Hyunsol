@@ -96,7 +96,7 @@ sections:
       spacing:
          padding: ['5vh', '15vh', '3vh', '15vh']
       view: compact
-      columns: 2
+      columns: 1
     archive:
       enable: true
       text: See all blog posts

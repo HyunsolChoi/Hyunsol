@@ -18,7 +18,7 @@ sections:
       font_size_max: 3.5
   - block: collection
     content:
-      title: <span style="font-weight:bold; text-aligh:center">포스트</span>
+      title: <span style="font-weight:bold; text-aligh:center">전체 포스트</span><br><br>
       subtitle: 
       text: 
       count: 0

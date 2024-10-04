@@ -95,6 +95,9 @@ sections:
           description: Node.js 등을 이용한 서버측과의 통신 설계 및 관리
           icon: chrome
           icon_pack: fab
+    design:
+      spacing:
+        padding: [0, 0, 0, 0]
 
   - block: collection
     content:

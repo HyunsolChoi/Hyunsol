@@ -26,6 +26,7 @@ sections:
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
+      css_class: fullscreen
 
   - block: collection
     content:
@@ -44,6 +45,7 @@ sections:
          padding: ['5vh', '15vh', '7vh', '15vh']
       view: compact
       columns: 1
+      
   - block: tag_cloud
     content:
       title: <span style="font-weight:bold">태그</span>

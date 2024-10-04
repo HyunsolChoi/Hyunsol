@@ -81,21 +81,21 @@ sections:
     content:
       title: <span style="font-weight:bold">현재 관심 분야</span>
       subtitle: 
-      text: <span style="font-size:130%; font-weight:500">이러한 분야에 관심이 있습니다</span><br>
+      text: <span style="font-size:130%; font-weight:bold">이러한 분야에 관심이 있습니다</span><br>
       items:
         - name: <span style="font-size:110%; font-weight:bold">Database</span>
           description: |
-            <span style="font-size:110%; font-weight: 550">SQL을 통한 데이터베이스 설계 및 제어</span>
+            <span style="font-size:110%; font-weight:550">SQL을 통한 데이터베이스 설계 및 제어</span>
           icon: database
           icon_pack: fas
         - name: <span style="font-size:110%; font-weight:bold">Algorithm</span>
           description: |
-            <span style="font-size:110%; font-weight: 550">알고리즘을 이용한 보다 효율적인 서비스 설계</span>
+            <span style="font-size:110%; font-weight:550">알고리즘을 이용한 보다 효율적인 서비스 설계</span>
           icon: gears
           icon_pack: fas
         - name: <span style="font-size:110%; font-weight:bold">Web</span>
           description: |
-            <span style="font-size:110%; font-weight: 550">서버/DB 통신 구조 및 관리</span>
+            <span style="font-size:110%; font-weight:550">서버/DB 통신 구조 및 관리</span>
           icon: chrome
           icon_pack: fab
     design:

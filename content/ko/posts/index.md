@@ -27,11 +27,6 @@ sections:
       spacing:
         padding: ['20px', '0', '20px', '0']
 
-    design:
-      # See Page Builder docs for all section customization options.
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-
   - block: collection
     content:
       title: <span style="font-weight:bold; text-aligh:center">전체 포스트</span><br><br>

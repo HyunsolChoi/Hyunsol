@@ -79,9 +79,9 @@ sections:
  
   - block: features
     content:
-      title: 관심분야
+      title: 현재 관심 분야
       subtitle: 
-      text: 이러한 분야에 관심이 있습니다.
+      text: <span style="font-size:130%">이러한 분야에 관심이 있습니다</span>
       items:
         - name: Database
           description: SQL을 통한 데이터베이스 설계 및 제어
@@ -93,6 +93,28 @@ sections:
           icon_pack: fas
         - name: Web
           description: Node.js 등을 이용한 서버측과의 통신 설계 및 관리
+          icon: chrome
+          icon_pack: fab
+    design:
+      spacing:
+        padding: ['5vh', 0, '0vh', 0]
+
+  - block: features
+    content:
+      title: 해보고 싶은 분야
+      subtitle: 
+      text: <span style="font-size:130%">배우고자 하는 마음이 있습니다</span>
+      items:
+        - name: AI
+          description: 인공지능 모델 활용 개발 및 프로젝트
+          icon: brain
+          icon_pack: fas
+        - name: Network Security
+          description: 보안 위협 차단을 통한 보안성 증진
+          icon: shield-halved
+          icon_pack: fas
+        - name: Hardware 
+          description: 컴퓨터 시스템의 이해를 통한 효율적인 개발
           icon: chrome
           icon_pack: fab
     design:

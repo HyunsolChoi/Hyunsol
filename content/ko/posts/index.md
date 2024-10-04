@@ -17,10 +17,9 @@ sections:
       columns: '1'
       background:
         image: 
-          caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
           filename: post.jpg
           filters:
-            brightness: 1
+            brightness: 0.8
           parallax: false
           position: center
           size: cover

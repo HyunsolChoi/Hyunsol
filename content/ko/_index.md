@@ -97,7 +97,7 @@ sections:
           icon_pack: fab
     design:
       spacing:
-        padding: [0, 0, 0, 0]
+        padding: ['5vh', 0, '7vh', 0]
 
   - block: collection
     content:

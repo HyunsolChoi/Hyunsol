@@ -68,10 +68,9 @@ sections:
       # Override your profile text from `authors/admin/_index.md`?
       text: |
         <div>
-        <span style="font-size:120%; font-weight: bold; text-align: center"><br>
-          전북대학교에서 컴퓨터공학을 전공하고 있는 <strong>최현솔</strong>입니다.<br>
-          유능한 백엔드 개발자가 되기위해 공부 중입니다. <br>
-          응원해주시면 감사하겠습니다!
+        <span style="font-size:100%; font-weight: bold; text-align: center">
+          전북대학교에서 컴퓨터공학을 전공하고 있는 최현솔입니다.<br>
+          유능한 백엔드 개발자가 되기위해 공부 중입니다. 
         </span>
         </div>
     design:

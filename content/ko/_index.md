@@ -104,7 +104,7 @@ sections:
 
   - block: features
     content:
-      title: 해보고 싶은 분야</span>
+      title: <span style="font-weight:bold">해보고 싶은 분야</span>
       subtitle: 
       text: <span style="font-size:120%; font-weight:550">배우고자 하는 마음이 있습니다</span>
       items:

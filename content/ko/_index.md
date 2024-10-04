@@ -25,34 +25,12 @@ sections:
     design:
       spacing:
         padding: [0, 0, 0, 0]
- 
-  - block: collection
-    content:
-      title: <strong>최근 포스트</strong><br><br>
-      subtitle: 
-      text: 
-      count: 4
-      filters:
-        folders:
-          - post
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      spacing:
-         padding: ['5vh', '15vh', '3vh', '15vh']
-      view: compact
-      columns: 2
-    archive:
-      enable: true
-      text: See all blog posts
-      link: post/
-    
+
   - block: slider
     content:
       slides:
-        - title: <span style="font-size:80%; font-weight:600; color:#00B2B2;">방문해주셔서 감사합니다</span>
-          content: <span style="color:#00BFBF; font-weight:600;">해당 웹은 저를 소개하기위해 만들어졌습니다.</span>
+        - title: <span style="font-size:80%; font-weight:600; color:#00B2B2;">저의 포트폴리오에 방문해주셔서 감사합니다</span>
+          content: <span style="color:#00BFBF; font-weight:600;">해당 웹은 저를 소개하는 것을 목적으로 만들어졌습니다.</span>
           align: center
           background:
             image:
@@ -101,6 +79,28 @@ sections:
       loop: true
       # Duration of transition between slides (in ms)
       interval: 5000
+ 
+  - block: collection
+    content:
+      title: <strong>최근 포스트</strong><br><br>
+      subtitle: 
+      text: 
+      count: 4
+      filters:
+        folders:
+          - post
+      offset: 0
+      order: desc
+      page_type: post
+    design:
+      spacing:
+         padding: ['5vh', '15vh', '3vh', '15vh']
+      view: compact
+      columns: 2
+    archive:
+      enable: true
+      text: See all blog posts
+      link: post/
 
   # - block: markdown
   #   content:

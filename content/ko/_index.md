@@ -81,7 +81,8 @@ sections:
     content:
       title: <span style="font-weight:bold">현재 관심 분야</span>
       subtitle: 
-      text: <span style="font-size:130%; font-weight:500">이러한 분야에 관심이 있습니다</span><br>
+      text: |
+        <span style="font-size:130%; font-weight:500">이러한 분야에 관심이 있습니다</span><br>
       items:
         - name: <span style="font-size:110%; font-weight:bold">Database</span>
           description: |

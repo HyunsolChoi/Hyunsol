@@ -41,7 +41,7 @@ sections:
     design:
       spacing:
          padding: ['5vh', '15vh', '3vh', '15vh']
-      view: article-grid
+      view: community/article-grid
       columns: 2
     # archive:
     #   enable: true

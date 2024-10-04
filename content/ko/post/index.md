@@ -5,13 +5,13 @@ type: landing
 sections:
   - block: collection
     content:
-      title: <span style="font-weight:bold">포스트</span>
+      title: <span style="font-weight:bold; text-aligh:center">포스트</span>
       subtitle: 
       text: 
       count: 0
       filters:
         folders:
-          - post
+          - ../
       offset: 0
       order: desc
       page_type: post

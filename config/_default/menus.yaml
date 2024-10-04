@@ -26,7 +26,7 @@ main:
     url: cloud
     weight: 220
 
-  - name: 문의
+  - name: Contact
     url: contact
     weight: 500
   # - name: Tour

@@ -81,7 +81,7 @@ sections:
     content:
       title: <span style="font-weight:bold">현재 관심 분야</span>
       subtitle: 
-      text: <span style="font-size:130%; font-weight:500">이러한 분야에 관심이 있습니다<br><br></span>
+      text: <span style="font-size:120%; font-weight:550">이러한 분야에 관심이 있습니다<br></span>
       items:
         - name: <span style="font-size:110%; font-weight:bold">Database</span>
           description: |
@@ -104,20 +104,23 @@ sections:
 
   - block: features
     content:
-      title: 해보고 싶은 분야
+      title: 해보고 싶은 분야</span>
       subtitle: 
-      text: <span style="font-size:130%">배우고자 하는 마음이 있습니다</span>
+      text: <span style="font-size:120%; font-weight:550">배우고자 하는 마음이 있습니다</span>
       items:
-        - name: AI
-          description: 인공지능 모델 활용 개발 및 프로젝트
+        - name: <span style="font-size:110%; font-weight:bold">AI</span>
+          description: |
+            <span style="font-size:110%; font-weight:550">인공지능 모델 활용 개발 및 프로젝트</span>
           icon: brain
           icon_pack: fas
-        - name: Network Security
-          description: 보안 위협 차단을 통한 보안성 증진
+        - name: <span style="font-size:110%; font-weight:bold">Network Security</span>
+          description: |
+            <span style="font-size:110%; font-weight:550">보안 위협 차단을 통한 보안성 증진</span>
           icon: shield-halved
           icon_pack: fas
-        - name: Hardware 
-          description: 컴퓨터 시스템의 이해를 통한 효율적인 개발
+        - name: <span style="font-size:110%; font-weight:bold">Hardware</span>
+          description: |
+            <span style="font-size:110%; font-weight:550">컴퓨터 시스템의 이해를 통한 효율적인 개발</span>
           icon: chrome
           icon_pack: fab
     design:

@@ -20,9 +20,11 @@ main:
     url: post
     weight: 200
   - parent: Post
+    name: List
     url: post
     weight: 210
   - parent: Post
+    name: Cloud
     url: cloud
     weight: 220
 

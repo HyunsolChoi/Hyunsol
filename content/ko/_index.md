@@ -9,7 +9,7 @@ sections:
     content:
       slides:
         - title: | 
-            <span style="font-size:80%; font-weight:600;">안녕하세요. 백엔드를 공부 중인 최현솔입니다</span>
+            <span style="font-size:80%; font-weight:600;">안녕하세요. 대학생 개발자 최현솔입니다</span>
           content: <span style="font-weight:600;">저의 포트폴리오에 방문해주셔서 감사합니다!</span>
           align: center
           background:
@@ -38,6 +38,40 @@ sections:
             icon: user
             icon_pack: fas
             url: about/
+        - title: <span style="font-size:80%; font-weight:600; color:#EAB8E4;">관심 분야</span>
+          content: <span style="color:#F4D3ED; font-weight:600;">저의 관심 분야들을 소개합니다</span>
+          align: 
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: interest-main.jpg
+              filters:
+                brightness: 0.4
+            position: center
+            color: '#555'
+          link:
+            text: Interest
+            icon: star
+            icon_pack: fas
+            url: interest/
+        - title: <span style="font-size:80%; font-weight:600; color:#EAB8E4;">프로젝트</span>
+          content: <span style="color:#F4D3ED; font-weight:600;">각종 경험/프로젝트들을 포스팅했습니다</span>
+          align: 
+          background:
+            image:
+              # Specify an image from `assets/media/`
+              # or delete the image section to remove it
+              filename: posts.jpg
+              filters:
+                brightness: 0.4
+            position: center
+            color: '#555'
+          link:
+            text: Post
+            icon: star
+            icon_pack: fas
+            url: post/
         - title: <span style="font-size:80%; font-weight:600; color:#FFB76B;">피드백 및 문의</span>
           content: <span style="color:#FFD6A0; font-weight:600;">피드백 및 문의, 컨택은 언제든 환영합니다</span>
           align: right
@@ -63,7 +97,7 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 3000
+      interval: 2000
 
   - block: about.avatar
     id: about
@@ -152,40 +186,7 @@ sections:
     archive:
       enable: true
       text: See all blog posts
-      link: ../posts/
-
-  # - block: markdown
-  #   content:
-  #     title:
-  #     subtitle: ''
-  #     text:
-  #   design:
-  #     columns: '1'
-  #     background:
-  #       image: 
-  #         filename: coders.jpg
-  #         filters:
-  #           brightness: 1
-  #         parallax: false
-  #         position: center
-  #         size: cover
-  #         text_color_light: true
-  #     spacing:
-  #       padding: ['20px', '0', '20px', '0']
-  #     css_class: fullscreen
-
-  # - block: collection
-  #   content:
-  #     title: Latest Preprints
-  #     text: ""
-  #     count: 5
-  #     filters:
-  #       folders:
-  #         - publication
-  #       publication_type: 'article'
-  #   design:
-  #     view: citation
-  #     columns: '1'
+      link: post/
 
   - block: markdown
     content:

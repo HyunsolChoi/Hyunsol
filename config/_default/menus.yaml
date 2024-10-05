@@ -25,7 +25,7 @@ main:
     weight: 200
 
   - name: Post
-    url: posts
+    url: post
     weight: 300
 
   - name: Contact

@@ -6,7 +6,7 @@
   {{ with .Content }}
     <div class="article-style">{{ . }}</div>
   {{ end }}
-
+    <div class="add-mar">
   {{ if templates.Exists (printf "partials/views/%s-start.html" (lower $.Params.view | default "community/custom-compact")) }}
     {{ partial "functions/render_view" (dict "page" $ "item" . "view" (printf "%s-start" $.Params.view) "index" 0) }}
   {{ end }}
@@ -19,7 +19,7 @@
   {{ if templates.Exists (printf "partials/views/%s-end.html" (lower $.Params.view | default "community/custom-compact")) }}
     {{ partial "functions/render_view" (dict "page" $ "item" . "view" (printf "%s-end" $.Params.view) "index" 0) }}
   {{ end }}
-
+    </div>
   {{ partial "pagination" . }}
 </div>
 

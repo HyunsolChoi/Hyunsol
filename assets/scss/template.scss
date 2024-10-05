@@ -24,14 +24,9 @@
   font-weight: bold;
 }
 
-@media (min-width: 640px) {
-  .add-mar {
-    margin: auto;
-  }
-}
-
 .add-mar {
   padding-left: 15px; 
   padding-right: 15px; 
+  margin: auto;
 }
 

@@ -20,7 +20,7 @@ sections:
           position: center
           size: cover
       spacing:
-        padding: ['30vh', '0', '30vh', '0']
+        padding: ['35vh', '0', '35vh', '0']
 
   - block: collection
     content:

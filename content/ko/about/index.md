@@ -26,7 +26,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="../skills/" cta_text="그 외 기타 →" %}}
+        {{% cta cta_link="../skills/" cta_text="etc. →" %}}
     design:
       columns: '1'
 ---

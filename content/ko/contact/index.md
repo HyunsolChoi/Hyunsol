@@ -13,14 +13,14 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: contact-main.jpg
+          filename: contact.jpg
           filters:
             brightness: 0.8
           parallax: false
           position: center
           size: cover
       spacing:
-        padding: ['30vh', '0', '30vh', '0']
+        padding: ['35vh', '0', '35vh', '0']
 
   - block: contact
     content:

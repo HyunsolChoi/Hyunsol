@@ -137,5 +137,5 @@ user_groups:
 <span style="font-size: 155%; font-weight: 850;"><br>Introduction</span>
 
 <span style="font-size: 105%; font-weight: 500; text-align: justify;">
-Hi! I'm <strong>Hyunsol Choi</strong> and enrolled in the Department of Computer and Artificial Intelligence at Jeonbuk National University. Currently, I'm interested in web development, so studying it. In addition, I am studying various computer science fields to gain major knowledge, such as Database and Algorithm. It is my goal to be a competent backend developer and work in the development team. I'd appreciate it if you could cheer me on. I would be grateful for your support. Thank you! 
+Hi! I'm <strong>Hyunsol Choi</strong> and enrolled in the Department of Computer Science at Jeonbuk National University. Currently, I'm interested in web development, so studying it. In addition, I am studying various computer science fields to gain major knowledge, such as Database and Algorithm. It is my goal to be a competent backend developer and work in the development team. I'd appreciate it if you could cheer me on. I would be grateful for your support. Thank you! 
 </span>

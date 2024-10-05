@@ -25,7 +25,7 @@ The goal was to introduce a few series that I enjoyed watching, focusing on the 
 ### DESCRIPTION
 
 <p>
-I adopted the MPA (Multi-Page Application) approach so that when users perform specific interactions (such as clicking a button), they can navigate to designated pages and view the information they desire. To prevent the dullness of text-only content, I inserted images of each series and linked to official or reference sites so users can obtain additional information. I implemented a comment feature on the web page using. I implemented a comment feature on the web page using <a href="https://disqus.com/">DISQUS</a>and enabled direct communication between users  and the developer (myself) using <a href="https://www.tawk.to/">TAWK</a>. Additionally, I deployed the project using GitHub Repositories, allowing anyone to access the web from anywhere.
+I adopted the MPA (Multi-Page Application) approach so that when users perform specific interactions (such as clicking a button), they can navigate to designated pages and view the information they desire. To prevent the dullness of text-only content, I inserted images of each series and linked to official or reference sites so users can obtain additional information. I implemented a comment feature on the web page using. I implemented a comment feature on the web page using <a href="https://disqus.com/">DISQUS</a> and enabled direct communication between users  and the developer (myself) using <a href="https://www.tawk.to/">TAWK</a>. Additionally, I deployed the project using GitHub Repositories, allowing anyone to access the web from anywhere.
 </p>
 
 ### CONCLUSION

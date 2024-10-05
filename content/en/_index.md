@@ -9,8 +9,8 @@ sections:
     content:
       slides:
         - title: | 
-            <span style="font-size:80%; font-weight:600;">안녕하세요. 대학생 개발자 최현솔입니다</span>
-          content: <span style="font-weight:600;">저의 포트폴리오에 방문해주셔서 감사합니다!</span>
+            <span style="font-size:80%; font-weight:600;">Hello, I am Hyunsol Choi, a university student developer.</span>
+          content: <span style="font-weight:600;">Welcome to my Portfolio!</span>
           align: center
           background:
             image:
@@ -21,8 +21,8 @@ sections:
                 brightness: 0.5
             position: right
             color: '#666'
-        - title: <span style="font-size:80%; font-weight:600;">소개</span>
-          content: <span style="font-weight:600;">저에 대해 간략히 소개하고자 합니다</span>
+        - title: <span style="font-size:80%; font-weight:600;">Introduction</span>
+          content: <span style="font-weight:600;">Let me introduce myself</span>
           align: right
           background:
             image:
@@ -38,8 +38,8 @@ sections:
             icon: user
             icon_pack: fas
             url: about/
-        - title: <span style="font-size:80%; font-weight:600;">관심 분야</span>
-          content: <span style="font-weight:600;">저의 관심 분야들을 소개합니다</span>
+        - title: <span style="font-size:80%; font-weight:600;">My interests</span>
+          content: <span style="font-weight:600;">Let me introduce my areas of interest</span>
           align: right
           background:
             image:
@@ -55,8 +55,8 @@ sections:
             icon: star
             icon_pack: fas
             url: interest/
-        - title: <span style="font-size:80%; font-weight:600;">프로젝트</span>
-          content: <span style="font-weight:600;">각종 경험/프로젝트들을 포스팅했습니다</span>
+        - title: <span style="font-size:80%; font-weight:600;">Projects</span>
+          content: <span style="font-weight:600;">Various experiences and projects have been posted</span>
           align: right
           background:
             image:
@@ -72,8 +72,8 @@ sections:
             icon: newspaper
             icon_pack: fas
             url: post/
-        - title: <span style="font-size:80%; font-weight:600;">피드백 및 문의</span>
-          content: <span style="font-weight:600;">피드백 및 문의, 컨택은 언제든 환영합니다</span>
+        - title: <span style="font-size:80%; font-weight:600;">Feedback and Others</span>
+          content: <span style="font-weight:600;">Feedback and inquiries are welcome</span>
           align: right
           background:
             image:
@@ -108,8 +108,8 @@ sections:
       text: |
         <div>
         <span style="font-size:100%; font-weight: bold; text-align: center">
-          전북대학교에서 컴퓨터공학을 전공하고 있는 최현솔입니다.<br>
-          유능한 백엔드 개발자가 되기위해 공부 중입니다. 
+          My name is Choi Hyun-sol, and I am majoring in Computer Science at Jeonbuk National University.<br>
+          I am studying to become a competent backend developer.
         </span>
         </div>
     design:
@@ -118,23 +118,23 @@ sections:
  
   - block: features
     content:
-      title: <span style="font-weight:bold">현재 관심 분야</span>
+      title: <span style="font-weight:bold">Current Interests</span>
       subtitle: 
-      text: <span style="font-size:120%; font-weight:550">이러한 분야에 관심이 있습니다<br></span>
+      text: <span style="font-size:120%; font-weight:550">Interested in these fields<br></span>
       items:
         - name: <span style="font-size:110%; font-weight:bold">Database</span>
           description: |
-            <span style="font-size:110%; font-weight:550">SQL을 통한 데이터베이스 설계 및 제어</span>
+            <span style="font-size:110%; font-weight:550">Database Design and Control using SQL</span>
           icon: database
           icon_pack: fas
         - name: <span style="font-size:110%; font-weight:bold">Algorithm</span>
           description: |
-            <span style="font-size:110%; font-weight:550">알고리즘을 이용한 보다 효율적인 서비스 설계</span>
+            <span style="font-size:110%; font-weight:550">More Efficient Service Design Using Algorithms</span>
           icon: gears
           icon_pack: fas
         - name: <span style="font-size:110%; font-weight:bold">Web</span>
           description: |
-            <span style="font-size:110%; font-weight:550">서버/DB 통신 구조 및 관리</span>
+            <span style="font-size:110%; font-weight:550">Server/Database Communication Architecture and Management</span>
           icon: chrome
           icon_pack: fab
     design:
@@ -143,23 +143,23 @@ sections:
 
   - block: features
     content:
-      title: <span style="font-weight:bold">해보고 싶은 분야</span>
+      title: <span style="font-weight:bold">Want to try</span>
       subtitle: 
-      text: <span style="font-size:120%; font-weight:550">배워보고 싶습니다</span>
+      text: <span style="font-size:120%; font-weight:550">Would like to learn</span>
       items:
         - name: <span style="font-size:110%; font-weight:bold">AI</span>
           description: |
-            <span style="font-size:110%; font-weight:550">인공지능 모델 활용 개발 및 프로젝트</span>
+            <span style="font-size:110%; font-weight:550">Development and Projects Utilizing AI Models</span>
           icon: brain
           icon_pack: fas
         - name: <span style="font-size:110%; font-weight:bold">Network Security</span>
           description: |
-            <span style="font-size:110%; font-weight:550">보안 위협 차단을 통한 보안성 증진</span>
+            <span style="font-size:110%; font-weight:550">Enhancing Security through Threat Mitigation</span>
           icon: shield-halved
           icon_pack: fas
         - name: <span style="font-size:110%; font-weight:bold">Hardware</span>
           description: |
-            <span style="font-size:110%; font-weight:550">컴퓨터 시스템의 이해를 통한 효율적인 개발</span>
+            <span style="font-size:110%; font-weight:550">Efficient Development through Understanding Computer Systems</span>
           icon: hard-drive
           icon_pack: fas
     design:
@@ -168,7 +168,7 @@ sections:
 
   - block: collection
     content:
-      title: <strong>최근 포스트</strong><br><br>
+      title: <strong>Recent Posts</strong><br><br>
       subtitle: 
       text: 
       count: 4

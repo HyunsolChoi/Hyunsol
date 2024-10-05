@@ -15,7 +15,7 @@ sections:
 
   - block: features
     content:
-      title: <span style="font-weight:700">Languages<br></span>
+      title: <span style="font-weight:700">언어<br></span>
       subtitle: 
       text: ''
       items:

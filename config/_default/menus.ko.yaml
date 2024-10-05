@@ -16,7 +16,7 @@ main:
     url: about/
     weight: 110 
   - parent: About
-    name: etc.
+    name: Others
     url: skills/
     weight: 120
 

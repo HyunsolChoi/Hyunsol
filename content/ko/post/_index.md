@@ -2,6 +2,6 @@
 title: 
 
 # Listing view
-view: compact
+view: citation
 
 ---

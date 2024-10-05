@@ -51,7 +51,7 @@ sections:
     content:
       title: <span style="font-weight:bold">해보고 싶은 분야</span>
       subtitle: 
-      text: <span style="font-size:120%; font-weight:550">배우고자 하는 마음이 있습니다</span>
+      text: <span style="font-size:120%; font-weight:550">배워보고 싶습니다</span>
       items:
         - name: <span style="font-size:110%; font-weight:bold">AI</span>
           description: |

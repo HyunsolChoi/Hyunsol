@@ -7,3 +7,11 @@
 .cta-group {
   justify-content: center;
 }
+
+.hover-overlay img {
+  transition: filter 0.3s ease; 
+}
+
+.hover-overlay:hover img {
+  filter: blur(5px);
+}

@@ -24,7 +24,7 @@ sections:
 
   - block: collection
     content:
-      title: <span style="font-weight:bold; text-aligh:center">전체 포스트</span><br><br>
+      title: <span style="font-weight:bold; text-aligh:center">All Posts</span><br><br>
       subtitle: 
       text: 
       count: 0
@@ -42,9 +42,9 @@ sections:
       
   - block: tag_cloud
     content:
-      title: <span style="font-weight:bold">태그</span>
+      title: <span style="font-weight:bold">Tags</span>
       subtitle:
-      text: 태그에 따라 분류된 포스트를 확인하실 수 있습니다.
+      text: You can view posts categorized by tags
       # Choose a taxonomy from the `taxonomies` list in `config.yaml` to display (e.g. tags, categories, authors)
       taxonomy: tags
       # Choose how many tags you would like to display (0 = all tags)

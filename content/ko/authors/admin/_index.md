@@ -58,7 +58,7 @@ social:
     link: https://github.com/HyunsolChoi
 
 skills:
-  - name: Technical
+  - name: 기술
     items:
     - name: C/C++
       description: ''
@@ -86,7 +86,7 @@ skills:
       icon: r-project
       icon_pack: fab
     
-  - name: Hobbies
+  - name: 취미
     color: '#eeac02'
     color_border: '#f0bf23'
     font-size: '500%'

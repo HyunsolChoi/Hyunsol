@@ -29,7 +29,7 @@ sections:
         <br> <span style="font-size:90%; color:#000000; font-weight:bold;">Thank you for referring to the information below for feedback and contact.</span><br>
       email: lasang2@naver.com
       address:
-        street: Jeonbuk National University, College of Engineering 7th Building
+        street: College of Engineering 7th Building, Jeonbuk National University
         city: Jeonju
         region: Jeonbuk State
         postcode: '54896'

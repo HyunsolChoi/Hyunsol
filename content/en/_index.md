@@ -9,7 +9,7 @@ sections:
     content:
       slides:
         - title: | 
-            <span style="font-size:80%; font-weight:600;">Hello, I am Hyunsol Choi, a university student developer.</span>
+            <span style="font-size:80%; font-weight:600;">Hello, I am Hyunsol Choi</span>
           content: <span style="font-weight:600;">Welcome to my Portfolio!</span>
           align: center
           background:
@@ -72,8 +72,8 @@ sections:
             icon: newspaper
             icon_pack: fas
             url: post/
-        - title: <span style="font-size:80%; font-weight:600;">Feedback and Others</span>
-          content: <span style="font-weight:600;">Feedback and inquiries are welcome</span>
+        - title: <span style="font-size:80%; font-weight:600;">Feedback and Contact</span>
+          content: <span style="font-weight:600;">Feedback and Contact are welcome</span>
           align: right
           background:
             image:
@@ -108,7 +108,7 @@ sections:
       text: |
         <div>
         <span style="font-size:100%; font-weight: bold; text-align: center">
-          My name is Choi Hyun-sol, and I am majoring in Computer Science at Jeonbuk National University.<br>
+          My name is Choi Hyun-sol, <br>and I am majoring in Computer Science at Jeonbuk National University.<br>
           I am studying to become a competent backend developer.
         </span>
         </div>

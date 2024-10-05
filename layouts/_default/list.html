@@ -4,7 +4,7 @@
 
 <div class="universal-wrapper">
   {{ with .Content }}
-    <div class="article-style">{{ . }}</div>
+    <div class="article-style add-pad">{{ . }}</div>
   {{ end }}
 
   {{ if templates.Exists (printf "partials/views/%s-start.html" (lower $.Params.view | default "community/custom-compact")) }}

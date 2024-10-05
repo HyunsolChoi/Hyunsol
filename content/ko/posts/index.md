@@ -2,10 +2,6 @@
 title: 
 type: landing
 
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/)'
-  image: 'post.jpg'
 
 sections:
   - block: markdown
@@ -26,7 +22,7 @@ sections:
           text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
+    #  css_class: fullscreen
 
   - block: collection
     content:

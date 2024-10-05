@@ -2,8 +2,6 @@
 title: 2022-1 동아리(WHO) 멘토링
 date: 2024-09-22
 
-view: community/custom-compact
-
 tags:
   - TEACHING
 

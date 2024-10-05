@@ -19,5 +19,5 @@ sections:
           filters:
             brightness: 0.5
           size: cover
-          position: center#   parallax: false
+          position: center #parallax: false
 ---

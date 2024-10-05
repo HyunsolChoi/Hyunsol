@@ -97,7 +97,7 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 4000
+      interval: 5000
 
   - block: about.avatar
     id: about

@@ -63,7 +63,7 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 5000
+      interval: 3000
 
   - block: about.avatar
     id: about
@@ -152,7 +152,7 @@ sections:
     archive:
       enable: true
       text: See all blog posts
-      link: posts/
+      link: ./posts/
 
   # - block: markdown
   #   content:

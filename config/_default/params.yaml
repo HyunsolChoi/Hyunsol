@@ -3,10 +3,6 @@
 # Documentation: https://docs.hugoblox.com/
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-google-site-verification:
-  name: "google-site-verification"
-  content: "i_izz5Hzh0vsHcms9ZoivmxTJHypfXfqP6rvmpeu5uM"
-
 plugins: ['jekyll-paginate', 'jekyll-sitemap', 'jekyll-include-cache', 'jekyll-gist']
 
 # Appearance

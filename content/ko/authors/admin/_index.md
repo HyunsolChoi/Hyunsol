@@ -85,11 +85,13 @@ skills:
       percent: 50
       icon: r-project
       icon_pack: fab
-  - name: <span style:"font-size:110%;font-weight:500">Hobbies</span>
+    
+  - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
+    font-size: '120%'
     items:
-      - name: <span style:"font-size:130%;font-weight:500">농구</span>
+      - name: 농구
         description: ''
         percent: 70
         icon: basketball

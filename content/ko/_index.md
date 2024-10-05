@@ -109,9 +109,10 @@ sections:
         <div>
         <span style="font-size:100%; font-weight: bold; text-align: center">
           전북대학교에서 컴퓨터공학을 전공하고 있는 최현솔입니다.<br>
-          유능한 백엔드 개발자가 되기위해 공부 중입니다. 
+          유능한 백엔드 개발자가 되기위해 공부 중입니다.<br>
         </span>
         </div>
+        {{% cta cta_link="/static/uploads/Resume.pdf" cta_text="Resume →" %}}
     design:
       spacing:
         padding: [0, 0, 0, 0]

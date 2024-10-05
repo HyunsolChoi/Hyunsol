@@ -89,7 +89,7 @@ skills:
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
-    font-size: '120%'
+    font-size: '500%'
     items:
       - name: 농구
         description: ''

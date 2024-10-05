@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Hyunsol Choi. All rights reserved.'
     license:
       enable: false
       allow_derivatives: false

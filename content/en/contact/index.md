@@ -26,7 +26,7 @@ sections:
     content:
       title: <span style="font-weight:bold">Feedback and Contact</span>
       subtitle: | 
-        <br> <span style="font-size:90%; color:#000000; font-weight:bold;">Thank you for referring to the information below for feedback and contact.</span><br>
+        <br> <span style="font-size:90%; font-weight:bold;">Thank you for referring to the information below for feedback and contact.</span><br>
       email: lasang2@naver.com
       address:
         street: College of Engineering 7th Building, Jeonbuk National University

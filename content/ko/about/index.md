@@ -21,4 +21,12 @@ sections:
           size: cover
           position: center 
           parallax: false
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        {{% cta cta_link="../skills/" cta_text="그 외 기타 →" %}}
+    design:
+      columns: '1'
 ---

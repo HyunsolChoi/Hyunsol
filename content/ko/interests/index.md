@@ -4,6 +4,24 @@ title: Interests
 type: landing
 
 sections: 
+  - block: markdown
+    content:
+      title: 
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: interest-main.jpg
+          filters:
+            brightness: 0.8
+          parallax: false
+          position: center
+          size: cover
+      spacing:
+        padding: ['30vh', '0', '30vh', '0']
+
   - block: features
     content:
       title: <span style="font-weight:bold">현재 관심 분야</span>

@@ -4,6 +4,24 @@ title: Contact
 type: landing
 
 sections:
+  - block: markdown
+    content:
+      title: 
+      subtitle: ''
+      text:
+    design:
+      columns: '1'
+      background:
+        image: 
+          filename: contact-main.jpg
+          filters:
+            brightness: 0.8
+          parallax: false
+          position: center
+          size: cover
+      spacing:
+        padding: ['30vh', '0', '30vh', '0']
+
   - block: contact
     content:
       title: <span style="font-weight:bold">피드백 및 문의</span>
@@ -50,24 +68,4 @@ sections:
       #     captcha: false
     design:
       columns: '1'
-
-  - block: markdown
-    content:
-      title:
-      subtitle: ''
-      text:
-    design:
-      columns: '1'
-      background:
-        image: 
-          filename: contact.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
-      spacing:
-        padding: ['20px', '0', '20px', '0']
-      css_class: fullscreen
 ---

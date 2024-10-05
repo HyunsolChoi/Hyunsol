@@ -26,4 +26,6 @@ Youtube 검색 기능은 사용자의 국가 코드를 사용하여 해당 국�
 
 이를 통해 사용자는 사용자 국가에 국한되지 않고, 지정 언어로 만들어진 영상들을 검색할 수 있습니다.
 
-{{% staticref "uploads/report.pdf" "newtab" %}}Download the Report in korean{{% /staticref %}}"
+### 첨부
+
+{{% staticref "uploads/report.pdf" "newtab" %}}보고서 다운로드{{% /staticref %}}

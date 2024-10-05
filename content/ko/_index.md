@@ -21,8 +21,8 @@ sections:
                 brightness: 0.5
             position: right
             color: '#666'
-        - title: <span style="font-size:80%; font-weight:600; color:#EAB8E4;">소개</span>
-          content: <span style="color:#F4D3ED; font-weight:600;">저에 대해 간략히 소개하고자 합니다</span>
+        - title: <span style="font-size:80%; font-weight:600;">소개</span>
+          content: <span style="font-weight:600;">저에 대해 간략히 소개하고자 합니다</span>
           align: right
           background:
             image:
@@ -38,8 +38,8 @@ sections:
             icon: user
             icon_pack: fas
             url: about/
-        - title: <span style="font-size:80%; font-weight:600; color:#EAB8E4;">관심 분야</span>
-          content: <span style="color:#F4D3ED; font-weight:600;">저의 관심 분야들을 소개합니다</span>
+        - title: <span style="font-size:80%; font-weight:600;">관심 분야</span>
+          content: <span style="font-weight:600;">저의 관심 분야들을 소개합니다</span>
           align: right
           background:
             image:
@@ -55,8 +55,8 @@ sections:
             icon: star
             icon_pack: fas
             url: interest/
-        - title: <span style="font-size:80%; font-weight:600; color:#EAB8E4;">프로젝트</span>
-          content: <span style="color:#F4D3ED; font-weight:600;">각종 경험/프로젝트들을 포스팅했습니다</span>
+        - title: <span style="font-size:80%; font-weight:600;">프로젝트</span>
+          content: <span style="font-weight:600;">각종 경험/프로젝트들을 포스팅했습니다</span>
           align: right
           background:
             image:
@@ -72,8 +72,8 @@ sections:
             icon: newspaper
             icon_pack: fas
             url: post/
-        - title: <span style="font-size:80%; font-weight:600; color:#FFB76B;">피드백 및 문의</span>
-          content: <span style="color:#FFD6A0; font-weight:600;">피드백 및 문의, 컨택은 언제든 환영합니다</span>
+        - title: <span style="font-size:80%; font-weight:600;">피드백 및 문의</span>
+          content: <span style="font-weight:600;">피드백 및 문의, 컨택은 언제든 환영합니다</span>
           align: right
           background:
             image:

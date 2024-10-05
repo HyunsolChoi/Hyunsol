@@ -23,7 +23,7 @@ sections:
             color: '#666'
         - title: <span style="font-size:80%; font-weight:600; color:#EAB8E4;">소개</span>
           content: <span style="color:#F4D3ED; font-weight:600;">저에 대해 간략히 소개하고자 합니다</span>
-          align: 
+          align: right
           background:
             image:
               # Specify an image from `assets/media/`
@@ -40,7 +40,7 @@ sections:
             url: about/
         - title: <span style="font-size:80%; font-weight:600; color:#EAB8E4;">관심 분야</span>
           content: <span style="color:#F4D3ED; font-weight:600;">저의 관심 분야들을 소개합니다</span>
-          align: 
+          align: right
           background:
             image:
               # Specify an image from `assets/media/`
@@ -57,7 +57,7 @@ sections:
             url: interest/
         - title: <span style="font-size:80%; font-weight:600; color:#EAB8E4;">프로젝트</span>
           content: <span style="color:#F4D3ED; font-weight:600;">각종 경험/프로젝트들을 포스팅했습니다</span>
-          align: 
+          align: right
           background:
             image:
               # Specify an image from `assets/media/`
@@ -69,7 +69,7 @@ sections:
             color: '#555'
           link:
             text: Post
-            icon: star
+            icon: newspaper
             icon_pack: fas
             url: post/
         - title: <span style="font-size:80%; font-weight:600; color:#FFB76B;">피드백 및 문의</span>
@@ -97,7 +97,7 @@ sections:
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 4000
 
   - block: about.avatar
     id: about
@@ -160,8 +160,8 @@ sections:
         - name: <span style="font-size:110%; font-weight:bold">Hardware</span>
           description: |
             <span style="font-size:110%; font-weight:550">컴퓨터 시스템의 이해를 통한 효율적인 개발</span>
-          icon: chrome
-          icon_pack: fab
+          icon: hard-drive
+          icon_pack: fas
     design:
       spacing:
         padding: ['5vh', 0, '7vh', 0]

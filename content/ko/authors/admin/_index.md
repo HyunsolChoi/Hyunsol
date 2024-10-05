@@ -131,6 +131,8 @@ email: 🖥️
 user_groups:
   - admin
 ---
-<span style="font-size: 155%; font-weight: 800;">소개
+<span style="font-size: 155%; font-weight: 800;">소개</span>
 
+<span style="font-size: 120%; font-weight: 500;">
 안녕하세요! 제 이름은 <strong>최현솔</strong>이라고 합니다. 전북대학교 컴퓨터인공지능학부에 재학 중입니다. 현재는 웹 개발에 관심이 있어 공부 중입니다. 이외에도 데이터베이스, 알고리즘과 같은 다양한 전공 관련 지식들을 쌓는 중 입니다. 추후에 유능한 개발자로서 개발 부서에서 근무하는 것이 저의 목표입니다. 응원해주시면 감사하겠습니다. 
+</span>

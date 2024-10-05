@@ -18,7 +18,7 @@ sections:
             brightness: 0.8
           parallax: false
           position: center
-          size: contain
+          size: cover
       spacing:
         padding: ['30vh', '0', '30vh', '0']
 

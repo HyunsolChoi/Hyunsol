@@ -15,7 +15,7 @@ sections:
       background: 
         text_color_light: true
         image: # Add your image background to assets/media/.
-          filename: bio-background.jpg
+          filename: background-pen.jpg
           filters:
             brightness: 0.5
           size: cover

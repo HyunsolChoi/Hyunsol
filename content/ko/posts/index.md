@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: markdown
     content:
-      title:
+      title: 
       subtitle: ''
       text:
     design:
@@ -21,7 +21,8 @@ sections:
           size: cover
           text_color_light: true
       spacing:
-        padding: ['20vh', '0', '20vh', '0']
+        padding: ['30vh', '0', '30vh', '0']
+        margin: ['15vh', '0', '15vh', '0']
 
   - block: collection
     content:

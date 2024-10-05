@@ -2,9 +2,9 @@
 
 {{ partial "page_header.html" . }}
 
-<div class="universal-wrapper">
+<div class="universal-wrapper list-tag">
   {{ with .Content }}
-    <div class="article-style add-pad">{{ . }}</div>
+    <div class="article-style">{{ . }}</div>
   {{ end }}
 
   {{ if templates.Exists (printf "partials/views/%s-start.html" (lower $.Params.view | default "community/custom-compact")) }}

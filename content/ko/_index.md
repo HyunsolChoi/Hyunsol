@@ -195,14 +195,15 @@ sections:
         longitude: '127.13444958163822'
     design:
       spacing:
-        padding: [ 0, 0, 0, 0 ]
+        padding: [ 0, 0, '15px', 0 ]
       columns: '1'
 
   - block: markdown
     content:
       title:
       subtitle:
-      text: |
+      text: | 
+        <br><br>
         {{% cta cta_link="./contact/" cta_text="Contact →" %}}
     design:
       spacing:

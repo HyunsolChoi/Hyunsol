@@ -14,7 +14,7 @@ tags:
 
 ---
 
-<div style="text-align: justify; word-break: normal; overflow-wrap: break-word;">
+<div style="text-align: justify; word-break: normal; text-justify: inter-word;">
 
 <p>
 SQL 활용 능력 및 데이터 모델링에 대한 지식을 기반으로 한 SQLD 자격증 취득을 위해 공부하였습니다.
@@ -29,7 +29,7 @@ SQL 활용 능력 및 데이터 모델링에 대한 지식을 기반으로 한 S
 ### 설명
 
 <p>
-SQLD는 [한국데이터산업진흥원](https://www.dataq.or.kr/www/main.do)에서 주관하는 국가공인자격증입니다. 여기서 SQLD란, SQL개발자(Developer)란 뜻으로 SQL을 활용해 데이터베이스를 직접 엑세스하여 조작 및 개발을 할 수 있는 능력을 가진 개발자를 의미합니다. 시험은 데이터 모델링에 대한 지식을 바탕으로 SQL 활용 능력을 검정합니다. 특별한 응시자격은 없으며, 시험의 합격기준은 총점 60점, 과목별 40%입니다. 
+SQLD는 <a href="https://www.dataq.or.kr/www/main.do">한국데이터산업진흥원</a>에서 주관하는 국가공인자격증입니다. 여기서 SQLD란, SQL개발자(Developer)란 뜻으로 SQL을 활용해 데이터베이스를 직접 엑세스하여 조작 및 개발을 할 수 있는 능력을 가진 개발자를 의미합니다. 시험은 데이터 모델링에 대한 지식을 바탕으로 SQL 활용 능력을 검정합니다. 특별한 응시자격은 없으며, 시험의 합격기준은 총점 60점, 과목별 40%입니다. 
 </p>
 
 ### 개요

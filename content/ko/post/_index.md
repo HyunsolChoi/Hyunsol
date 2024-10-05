@@ -37,7 +37,7 @@ sections:
     design:
       spacing:
          padding: ['5vh', '15vh', '7vh', '15vh']
-      view: compact
+      view: community/custom-compact
       columns: 1
       
   - block: tag_cloud

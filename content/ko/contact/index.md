@@ -67,5 +67,7 @@ sections:
       #     # Enable CAPTCHA challenge to reduce spam?
       #     captcha: false
     design:
+      spacing:
+        padding: ['30px', '0', '60px', '0']
       columns: '1'
 ---

@@ -15,7 +15,7 @@ sections:
         image: 
           filename: interest-main.jpg
           filters:
-            brightness: 1
+            brightness: 0.9
           parallax: false
           position: center
           size: cover
@@ -66,8 +66,8 @@ sections:
         - name: <span style="font-size:110%; font-weight:bold">Hardware</span>
           description: |
             <span style="font-size:110%; font-weight:550">컴퓨터 시스템의 이해를 통한 효율적인 개발</span>
-          icon: chrome
-          icon_pack: fab
+          icon: hard-drive
+          icon_pack: fas
     design:
       spacing:
         padding: ['5vh', 0, '7vh', 0]

@@ -26,7 +26,7 @@ sections:
     content:
       title: <span style="font-weight:bold">피드백 및 문의</span>
       text: | 
-        <br> <span style="font-size:90%; font-weight:bold">피드백 및 기타 문의사항은 아래 내용들을 참고해주시면 감사하겠습니다.</span><br>
+        <br> <span style="font-size:90%; font-weight:bold; text-align:center;">피드백 및 기타 문의사항은 아래 내용들을 참고해주시면 감사하겠습니다.</span><br>
       email: lasang2@naver.com
       address:
         street: 전북대학교 공과대학 7호관

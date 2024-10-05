@@ -18,11 +18,9 @@ sections:
             brightness: 0.8
           parallax: false
           position: center
-          size: cover
-          text_color_light: true
+          size: contain
       spacing:
         padding: ['30vh', '0', '30vh', '0']
-        margin: ['15vh', '0', '15vh', '0']
 
   - block: collection
     content:

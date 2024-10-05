@@ -36,7 +36,7 @@ sections:
       page_type: post
     design:
       spacing:
-         padding: ['5vh', '15vh', '7vh', '15vh']
+         padding: ['5vh', '50px', '7vh', '50px']
       view: community/custom-compact
       columns: 1
       

@@ -190,9 +190,13 @@ sections:
 
   - block: contact
     content:
+      text: |
+          {{% cta cta_link="./contact/" cta_text="Contact →" %}}
       coordinates:
         latitude: '35.84599071481824'
         longitude: '127.13444958163822'
+    design:
+      columns: '1'
 
   - block: markdown
     content:

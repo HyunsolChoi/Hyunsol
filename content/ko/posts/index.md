@@ -13,7 +13,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: post.jpg
+          filename: posts.jpg
           filters:
             brightness: 0.8
           parallax: false

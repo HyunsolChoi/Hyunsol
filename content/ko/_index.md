@@ -190,15 +190,6 @@ sections:
 
   - block: contact
     content:
-      title: 
-      subtitle:
-      address:
-        street: 전북대학교 공과대학 7호관
-        city: 전주시
-        region: 전라북도
-        postcode: '54896'
-        country: 대한민국
-        country_code: KO
       coordinates:
         latitude: '35.84599071481824'
         longitude: '127.13444958163822'

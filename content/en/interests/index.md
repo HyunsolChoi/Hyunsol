@@ -24,23 +24,23 @@ sections:
 
   - block: features
     content:
-      title: <span style="font-weight:bold">현재 관심 분야</span>
+      title: <span style="font-weight:bold">Current Interests</span>
       subtitle: 
-      text: <span style="font-size:120%; font-weight:550">이러한 분야에 관심이 있습니다<br></span>
+      text: <span style="font-size:120%; font-weight:550">Interested in these fields<br></span>
       items:
         - name: <span style="font-size:110%; font-weight:bold">Database</span>
           description: |
-            <span style="font-size:110%; font-weight:550">SQL을 통한 데이터베이스 설계 및 제어</span>
+            <span style="font-size:110%; font-weight:550">Database Design and Control using SQL</span>
           icon: database
           icon_pack: fas
         - name: <span style="font-size:110%; font-weight:bold">Algorithm</span>
           description: |
-            <span style="font-size:110%; font-weight:550">알고리즘을 이용한 보다 효율적인 서비스 설계</span>
+            <span style="font-size:110%; font-weight:550">More Efficient Service Design Using Algorithms</span>
           icon: gears
           icon_pack: fas
         - name: <span style="font-size:110%; font-weight:bold">Web</span>
           description: |
-            <span style="font-size:110%; font-weight:550">서버/DB 통신 구조 및 관리</span>
+            <span style="font-size:110%; font-weight:550">Server/Database Communication Architecture and Management</span>
           icon: chrome
           icon_pack: fab
     design:
@@ -49,23 +49,23 @@ sections:
 
   - block: features
     content:
-      title: <span style="font-weight:bold">해보고 싶은 분야</span>
+      title: <span style="font-weight:bold">Want to try</span>
       subtitle: 
-      text: <span style="font-size:120%; font-weight:550">배워보고 싶습니다</span>
+      text: <span style="font-size:120%; font-weight:550">Would like to learn</span>
       items:
         - name: <span style="font-size:110%; font-weight:bold">AI</span>
           description: |
-            <span style="font-size:110%; font-weight:550">인공지능 모델 활용 개발 및 프로젝트</span>
+            <span style="font-size:110%; font-weight:550">Development and Projects Utilizing AI Models</span>
           icon: brain
           icon_pack: fas
         - name: <span style="font-size:110%; font-weight:bold">Network Security</span>
           description: |
-            <span style="font-size:110%; font-weight:550">보안 위협 차단을 통한 보안성 증진</span>
+            <span style="font-size:110%; font-weight:550">Enhancing Security through Threat Mitigation</span>
           icon: shield-halved
           icon_pack: fas
         - name: <span style="font-size:110%; font-weight:bold">Hardware</span>
           description: |
-            <span style="font-size:110%; font-weight:550">컴퓨터 시스템의 이해를 통한 효율적인 개발</span>
+            <span style="font-size:110%; font-weight:550">Efficient Development through Understanding Computer Systems</span>
           icon: hard-drive
           icon_pack: fas
     design:

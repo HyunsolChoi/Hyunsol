@@ -24,16 +24,16 @@ sections:
 
   - block: contact
     content:
-      title: <span style="font-weight:bold">피드백 및 문의</span>
+      title: <span style="font-weight:bold">Feedback and Contact</span>
       subtitle: | 
-        <br> <span style="font-size:90%; color:#000000; font-weight:bold;">피드백 및 기타 문의사항은 아래 내용들을 참고해주시면 감사하겠습니다.</span><br>
+        <br> <span style="font-size:90%; color:#000000; font-weight:bold;">Thank you for referring to the information below for feedback and contact.</span><br>
       email: lasang2@naver.com
       address:
-        street: 전북대학교 공과대학 7호관
-        city: 전주시
-        region: 전라북도
+        street: Jeonbuk National University, College of Engineering 7th Building
+        city: Jeonju
+        region: Jeonbuk State
         postcode: '54896'
-        country: 대한민국
+        country: Republic of Korea
         country_code: KO
       coordinates:
         latitude: '35.84599071481824'
@@ -44,15 +44,15 @@ sections:
       contact_links:
         - icon: discord
           icon_pack: fab
-          name: 디스코드 채널
+          name: Discord Channel
           link: https://discord.gg/zbbK7qqWf3
         - icon: instagram
           icon_pack: fab
-          name: 인스타그램
+          name: Instagram
           link: https://www.instagram.com/s._.ol_02/
         - icon: github
           icon_pack: fab
-          name: 깃허브
+          name: Github
           link: https://github.com/HyunsolChoi
     
       # Automatically link email and phone or display as text?

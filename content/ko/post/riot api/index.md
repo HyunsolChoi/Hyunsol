@@ -10,10 +10,10 @@ date: 2024-09-22
 
 summary: "2022년 2월, 학기에 앞서 WPF와 API를 공부하며 오는 학기에 수강할 강의를 예습하였습니다."
 ---
-
+<div style:"text-align: justify;">
 2022년 2월, 학기에 앞서 WPF와 API를 공부하며 오는 학기에 수강할 강의를 예습하였습니다.
 본래 목적인 예습에 그치기엔 아쉬움이 있어 소규모 프로젝트를 진행하였습니다.
-
+</div>
 ### 목표
 
 목표는 JSON 형식으로 사용자의 정보를 제공하는 [Riot API](https://developer.riotgames.com/apis)를 사용하여 ID로 사용자의 정보를 검색하는 것이었습니다.

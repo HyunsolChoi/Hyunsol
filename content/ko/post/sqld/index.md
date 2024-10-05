@@ -14,7 +14,7 @@ tags:
 
 ---
 
-<div style="text-align: justify; white-space: pre-wrap;">
+<div style="text-align: justify; word-break: normal;">
 
 <p>
 SQL 활용 능력 및 데이터 모델링에 대한 지식을 기반으로 한 SQLD 자격증 취득을 위해 공부하였습니다.

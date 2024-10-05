@@ -152,7 +152,7 @@ sections:
     archive:
       enable: true
       text: See all blog posts
-      link: ./posts/
+      link: ../posts/
 
   # - block: markdown
   #   content:

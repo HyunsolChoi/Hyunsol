@@ -8,10 +8,10 @@
   justify-content: center;
 }
 
-.hover-img img {
+.hover-image img {
   transition: filter 0.3s ease; 
 }
 
-.hover:hover-img img {
+.hover-image:hover img {
   filter: blur(2px);
 }

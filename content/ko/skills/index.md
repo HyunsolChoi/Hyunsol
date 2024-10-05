@@ -15,7 +15,7 @@ sections:
 
   - block: features
     content:
-      title: <span style="font-weight:700">Languages</span>
+      title: <span style="font-weight:700">Languages<br></span>
       subtitle: 
       text: ''
       items:

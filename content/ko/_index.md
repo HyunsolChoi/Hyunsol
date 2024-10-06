@@ -112,7 +112,7 @@ sections:
           유능한 백엔드 개발자가 되기위해 공부 중입니다.<br>
         </span>
         </div>
-        {{% cta cta_link="/uploads/Resume.pdf" cta_text="Resume →" %}}
+        {{% staticref "uploads/Resume.pdf" "newtab" %}}Download Resume{{% /staticref %}}
     design:
       spacing:
         padding: [0, 0, 0, 0]

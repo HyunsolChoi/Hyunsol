@@ -113,7 +113,8 @@ sections:
         </span>
         </div>
         <br>
-        {{% staticref "uploads/Resume.pdf" "newtab" %}}Download Resume{{% /staticref %}}<br>
+        {{% staticref "uploads/Resume.pdf" "newtab" %}}Download Resume{{% /staticref %}}
+        <br>
     design:
       spacing:
         padding: [0, 0, 0, 0]

@@ -8,6 +8,14 @@
   justify-content: center;
 }
 
+.hover-text a{
+  transition: font-size 0.3s ease;
+}
+
+.hover-image:hover .hover-text a {
+  font-size: 1.2em;
+}
+
 .hover-image img {
   transition: filter 0.3s ease; 
 }

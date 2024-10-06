@@ -113,7 +113,7 @@ sections:
         </span>
         </div>
         <br>
-        {{% staticref "uploads/Resume.pdf" "newtab" %}}Download Resume{{% /staticref %}}
+        {{% staticref "uploads/Resume.pdf" "newtab" %}}이력서 다운로드{{% /staticref %}}
         <br>
     design:
       spacing:

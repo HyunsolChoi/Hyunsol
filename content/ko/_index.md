@@ -9,7 +9,7 @@ sections:
     content:
       slides:
         - title: | 
-            <span style="font-size:80%; font-weight:600;">안녕하세요. 대학생 개발자 최현솔입니다</span>
+            <span style="font-size:80%; font-weight:600;">안녕하세요, 대학생 개발자 최현솔입니다</span>
           content: <span style="font-weight:600;">저의 포트폴리오에 방문해주셔서 감사합니다!</span>
           align: center
           background:

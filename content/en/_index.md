@@ -109,9 +109,12 @@ sections:
         <div>
         <span style="font-size:100%; font-weight: bold; text-align: center">
           My name is Choi Hyun-sol, <br>and I am majoring in Computer Science at Jeonbuk National University.<br>
-          I am studying to become a competent backend developer.
+          I am studying to become a competent backend developer.<br>
         </span>
         </div>
+        <br>
+        {{% staticref "uploads/Resume.pdf" "newtab" %}}Download Resume{{% /staticref %}}
+        <br>
     design:
       spacing:
         padding: [0, 0, 0, 0]
@@ -188,12 +191,25 @@ sections:
       text: See all blog posts
       link: post/
 
+  - block: contact
+    content:
+      coordinates:
+        latitude: '35.84599071481824'
+        longitude: '127.13444958163822'
+    design:
+      spacing:
+        padding: [ 0, 0, '15px', 0 ]
+      columns: '1'
+
   - block: markdown
     content:
       title:
       subtitle:
-      text: |
+      text: | 
+        <br><br>
         {{% cta cta_link="./contact/" cta_text="Contact →" %}}
     design:
+      spacing:
+        padding: [ 0, 0, 0, 0 ]
       columns: '1'
 ---

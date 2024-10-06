@@ -112,7 +112,8 @@ sections:
           유능한 백엔드 개발자가 되기위해 공부 중입니다.<br>
         </span>
         </div>
-        {{% staticref "uploads/Resume.pdf" "newtab" %}}Download Resume{{% /staticref %}}
+        <br>
+        {{% staticref "uploads/Resume.pdf" "newtab" %}}Download Resume{{% /staticref %}}<br>
     design:
       spacing:
         padding: [0, 0, 0, 0]
